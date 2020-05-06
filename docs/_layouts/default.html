@@ -11,6 +11,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  background-color: #333;
 }
 
 li {
@@ -19,19 +20,28 @@ li {
 
 li a {
   display: block;
-  padding: 8px;
-  background-color: #dddddd;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
 }
 </style>
   </head>
   <body>
-    <ul>
-  <li><a href="/BTEN/Index_DE">Index</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+<ul>
+  <li><a href="/BTEN/Index_DE">Index (DE)</a></li>
+  <li><a href="/BTEN/Index_EN">Index (EN)</a></li>
+  <li><a href="/BTEN/Index_ES">Índice (ES)</a></li>
+  <li style="float:right"><a class="active" href="#about">About</a></li>
 </ul>
-    <h2 class="project-tagline"> <a href="/BTEN/Index_DE">Zum Index (DE)</a> | <a href="/BTEN/Index_EN">Go to the Index (EN)</a> | <a href="/BTEN/Index_ES">Ver el Índice (ES)</a></h2>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
