@@ -47,7 +47,8 @@ N6. [Anderes](#n6-anderes)
 ## N4: Logos, Fahnen und Banner
 ### N4.1: Offizielle Fahnen und Banner
 [N4.1.1: Bundesländerflaggen](/BTEN/N4.1.1_DE)    
-[N4.1.2: Länderflaggen](/BTEN/N4.1.2_DE)    
+[N4.1.2: Länderflaggen](/BTEN/N4.1.2_DE) 
+
 ***
 
 ## N5: Dekorationen
@@ -60,4 +61,5 @@ N6. [Anderes](#n6-anderes)
 ## N6: Anderes
 ### N6.1: Glossar
 [N6.1.1: Köpfe](/BTEN/N6.1.1_DE)
+
 ***
