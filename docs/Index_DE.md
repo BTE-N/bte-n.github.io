@@ -48,6 +48,8 @@ N6. [Anderes](#n6-anderes)
 ### N4.1: Offizielle Fahnen und Banner
 [N4.1.1: Bundesländerflaggen](/BTEN/N4.1.1_DE)    
 [N4.1.2: Länderflaggen](/BTEN/N4.1.2_DE) 
+### N4.2: Logos
+[N4.2.1: Firmenlogos](/BTEN/N4.2.1_DE)
 
 ***
 
