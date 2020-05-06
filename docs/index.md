@@ -4,8 +4,8 @@ As Germans do, we like to norm things. By that, we mean to normalize as many str
 
 This document will be available in both German and English.
 
-## [View The Norm-Index (English)](/BTEN/Index_EN/)
+## [View The Norm-Index (English)](/BTEN/Index_EN)
 
-## [Gehe zum Norm-Index (Deutsch)](/BTEN/Index_DE/)
+## [Gehe zum Norm-Index (Deutsch)](/BTEN/Index_DE)
 
-## [Ver el Índice de Normas (Español)](/BTEN/Index_ES/)
+## [Ver el Índice de Normas (Español)](/BTEN/Index_ES)
