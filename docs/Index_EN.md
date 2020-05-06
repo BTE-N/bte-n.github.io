@@ -46,6 +46,8 @@ N6. [Other](#n6-other)
 ### N4.1: Official Flags and Banner
 [N4.1.1: Flags of German States](/BTEN/N4.1.1_EN)    
 [N4.1.2: Countryflags](/BTEN/N4.1.2_EN)    
+### N4.2: Logos
+[N4.2.1: Company logos](/BTEN/N4.2.1_EN)
 
 ***
 
