@@ -38,6 +38,7 @@ N6. [Anderes](#n6-anderes)
 [N3.3.1: ICE 3](/BTEN/N3.3.1_DE)    
 [N3.3.2: DB Doppelstockzug (Twindexx)](/BTEN/N3.3.2_DE)    
 [N3.3.3: Elektrolokomotive (Baureihe 101)](/BTEN/N3.3.3_DE)
+[N3.3.4: IC2](/BTEN/N3.3.4_DE)
 ### N3.4: Flugzeuge
 ### N3.5: Wasserverkehr
 ### N3.6: Anderes
