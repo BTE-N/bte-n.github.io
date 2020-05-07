@@ -26,6 +26,7 @@ N6. [Anderes](#n6-anderes)
 [N2.1.3: Ampelbanner](/BTEN/N2.1.3_DE)
 ### N2.2: Schienenverkehr
 [N2.2.1: Schienen](/BTEN/N2.2.1_DE)
+[N2.2.2: Hochgeschwindigkeitsschienen](/BTEN/N2.2.2_DE)
 ### N2.3: Verkehrszeichen und -schilder
 
 ***
