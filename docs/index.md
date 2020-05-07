@@ -4,8 +4,8 @@ Started from a small team of German people, the Norming Project sets out to do t
 
 Simply select the link of your preferred language to view this Wiki. If yours is missing, why not [join us](https://discord.gg/eXzrZSx) and become a translator?
 
-## [View The Norm-Index (English)](/BTEN/Index_EN)
+## [View The Norm-Index (English)](/BTEN/EN/Index)
 
-## [Gehe zum Norm-Index (Deutsch)](/BTEN/Index_DE)
+## [Gehe zum Norm-Index (Deutsch)](/BTEN/DE/Index)
 
-## [Ver el Índice de Normas (Español)](/BTEN/Index_ES)
+## [Ver el Índice de Normas (Español)](/BTEN/ES/Index)
