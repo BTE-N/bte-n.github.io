@@ -122,7 +122,9 @@
     </style>
 </head>
 <body>
+    <!-- Menu bar -->
     <ul class="bar">
+        <!-- Language Select -->
         <li class="bar"><div class="dropdown">
             <button class="dropbtn" onclick="dropdownClick()">🌍</button>
             <div class="dropdown-content">
@@ -130,18 +132,20 @@
                <a href="#" onclick="switchLang('DE')">🇩🇪</a>
                <a href="#" onclick="switchLang('ES')">🇪🇸</a>
                <a href="#" onclick="switchLang('FR')">🇫🇷</a>
+               <!-- a href="#" onclick="switchLang('IT')">🇮🇹</a> -->
             </div>
         </div>
         <li class="bar"><a href="#" onclick="goTo('Index')">Index</a></li>
-        
+        <!-- Right-Side Items -->
         <li style="float: right;" class="bar a"><a href="/BTEN/About">About Us</a></li>
         <li style="float: right;" class="bar"><a href="https://discord.gg/eXzrZSx">Discord</a></li>
     </ul>
+    <!-- Large Banner -->
     <header class="page-header" role="banner">
         <h1 class="project-name">{{ page.title }}</h1>
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     </header>
-
+    <!-- Content -->
     <main id="content" class="main-content" role="main">
         {{ content }}
 
