@@ -5,9 +5,9 @@ permalink: /About.html
 # About Us
 
 * [Who are we?](#who-are-we)
-* [Philosophy](#Philosophy)
-* [Contribute](#Contribute)
-* [Members](#Members)
+* [Philosophy](#philosophy)
+* [Contribute](#contribute)
+* [Members](#members)
 
 ## Who are we?
 
