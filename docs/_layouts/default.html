@@ -42,8 +42,8 @@
                     list-style-type: none;
                     margin: 0;
                     padding: 0;
-                    z-index: 10000
-                    background-color: #333;
+                    z-index: 10000;
+                    background-color: transparent;
                 }
 
                 li.bar {
@@ -59,63 +59,60 @@
                 }
 
                 li.bar a:hover:not(.active) {
-                    background-color: #111;
+                    background-color: transparent;
                 }
 
                 .active {
-                    background-color: #4caf50;
+                    background-color: rgba(122, 122, 122, 0.4);
                 }
                 .dropbtn {
-                background-color: #4CAF50;
-                color: white;
-                padding: 16px;
-                font-size: 16px;
-                border: none;
+                    background-color: #4CAF50;
+                    color: #fff;
+                    padding: 16px;
+                    font-size: 16px;
+                    border: none;
                 }
 
                 .dropdown {
-                position: relative;
-                z-index: 9000;
-                display: inline-block;
-                background-color: #111111;
+                    position: relative;
+                    z-index: 9000;
+                    display: inline-block;
+                    background-color: rgba(0, 149, 255, 0.4);
                 }
 
                .dropdown-content {
-                display: none;
-                position: absolute;
-                background-color: #f1f1f1;
-                min-width: 160px;
-                box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-                z-index: 1;
+                    display: none;
+                    position: absolute;
+                    background-color: rgba(122, 122, 122, 0.4);
+                    min-width: 160px;
+                    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                    z-index: 1;
                 }
 
-        .dropdown-content a {
-          color: black;
-          padding: 12px 16px;
-          text-decoration: none;
-          display: block;
-        }
+               .dropdown-content a {
+                   color: #000;
+                   padding: 12px 16px;
+                   text-decoration: none;
+                   display: block;
+               }
 
-        .dropdown-content a:hover {background-color: #ddd;}
+              .dropdown-content a:hover {background-color: #ddd;}
 
-        .dropdown:hover .dropdown-content {display: block;}
+              .dropdown:hover .dropdown-content {display: block;}
 
-        .dropdown:hover .dropbtn {background-color: #3e8e41;}
+              .dropdown:hover .dropbtn {background-color: #3e8e41;}
     </style>
 </head>
 <body>
     <ul class="bar">
         <li class="bar"><a href="#" onclick="goTo('Index')">Index</a></li>
-        <li class="bar"><a href="#" onclick="switchLang('EN')">🇬🇧</a></li>
-        <li class="bar"><a href="#" onclick="switchLang('DE')">🇩🇪</a></li>
-        <li class="bar"><a href="#" onclick="switchLang('ES')">🇪🇸</a></li>
-        <li class="bar"><a href="#" onclick="switchLang('FR')">🇫🇷</a></li>
         <li class="bar"><div class="dropdown">
-            <button class="dropbtn">Dropdown</button>
+            <button class="dropbtn">🌍</button>
             <div class="dropdown-content">
-                <a href="#">Link 1</a>
-                <a href="#">Link 2</a>
-                <a href="#">Link 3</a>
+                <a href="#" onclick="switchLang('EN')">🇬🇧</a></li>
+                <a href="#" onclick="switchLang('DE')">🇩🇪</a></li>
+                <a href="#" onclick="switchLang('ES')">🇪🇸</a></li>
+                <a href="#" onclick="switchLang('FR')">🇫🇷</a>
             </div>
         </div>
         <li style="float: right;" class="bar a"><a href="/BTEN/About">About Us</a></li>
