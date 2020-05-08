@@ -8,10 +8,12 @@ k44du2#8049
 𝔇'𝔞𝔪𝔡𝔯𝔢 𝔗𝔬𝔪𝔞𝔱𝔬#0768    
 
 ### Translators
-santiagomg#4289 (Spanish)    
+cAtte_#4289 (Spanish)    
 Welan#0373 (French)    
 RubenVerg#7021 (Italian)    
 Gomba03#1231 (French)    
+Danuer#5139 (Italian)    
+Pinguino82#0356 (Italian)    
 
 ### Additional Members
 CADO#5826    
