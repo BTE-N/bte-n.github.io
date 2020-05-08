@@ -24,7 +24,7 @@ N6. [Other](#n6-other)
 [N2.1.3: Traffic light banner](/BTEN/EN/N2/1/3)
 ### N2.2: Railways
 [N2.2.1: normal Railways](/BTEN/EN/N2/2/1) <br/>
-[N2.2.1: high-speed Railways](/BTEN/EN/N2/2/2)
+[N2.2.2: high-speed Railways](/BTEN/EN/N2/2/2)
 ### N2.3: Traffic signs
 
 ***
