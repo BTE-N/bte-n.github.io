@@ -9,3 +9,5 @@ Simply select the link of your preferred language to view this Wiki. If yours is
 ## [Gehe zum Norm-Index (Deutsch)](/BTEN/DE/Index)
 
 ## [Ver el Índice de Normas (Español)](/BTEN/ES/Index)
+
+## [Voir l'Index des Normes (Français)](/BTEN/FR/Index)
