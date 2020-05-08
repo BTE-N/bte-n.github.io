@@ -11,7 +11,7 @@
     <meta name="msapplication-TileColor" content="#da532c" />
     <meta name="theme-color" content="#ffffff" />
     <!-- Google Analytics, Language Picker, Dropdown Click -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165741526-1"></script>
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165741526-1"></script>-->
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() {
@@ -33,92 +33,98 @@
             lang = lang || getCurrentLang() || "EN";
             location.href = `/BTEN/${lang}/${path}`;
         }
-        
+
         function dropdownClick() {
             document.getElementById("dropdown").classList.toggle("show");
         }
         window.onclick = function(event) {
-            if (!event.target.matches('.dropbtn')) {
+            if (!event.target.matches(".dropbtn")) {
                 var dropdowns = document.getElementsByClassName("dropdown-content");
                 var i;
-            for (i = 0; i < dropdowns.length; i++) {
-                var openDropdown = dropdowns[i];
-        if (openDropdown.classList.contains('show')) {
-           openDropdown.classList.remove('show');
-      }
-    }
-  }
-}
+                for (i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains("show"))
+                        openDropdown.classList.remove("show");
+                }
+            }
+        }
     </script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#157878" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
     <style>
-                ul.bar {
-                    list-style-type: none;
-                    margin: 0;
-                    padding: 0;
-                    z-index: 10000;
-                    background-color: rgba(0, 149, 255, 0.4);
-                }
+        ul.bar {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            z-index: 10000;
+            background-color: rgba(0, 149, 255, 0.4);
+        }
 
-                li.bar {
-                    float: left;
-                }
+        li.bar {
+            float: left;
+        }
 
-                li.bar a {
-                    display: block;
-                    color: white;
-                    text-align: center;
-                    padding: 16px 16px;
-                    text-decoration: none;
-                }
+        li.bar a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 16px 16px;
+            text-decoration: none;
+        }
 
-                li.bar a:hover:not(.active) {
-                    background-color: rgba(97, 97, 97, 0.4);
-                }
+        li.bar a:hover:not(.active) {
+            background-color: #15579980;
+        }
 
-                .active {
-                    background-color: rgba(122, 122, 122, 0.6);
-                }
-                .dropbtn {
-                    background-color: rgba(122, 122, 122, 0.6);
-                    color: #fff;
-                    padding: 16px;
-                    font-size: 16px;
-                    border: none;
-                }
+        .active {
+            background-color: #15579980;
+        }
+        .dropbtn {
+            background-color: transparent;
+            color: #fff;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            width: 100%;
+        }
 
-                .dropdown {
-                    position: relative;
-                    z-index: 9000;
-                    display: inline-block;
-                    background-color: rgba(60, 100, 140, 1);
-                    min-width: 52.859px;
-                }
+        .dropdown {
+            position: relative;
+            z-index: 9000;
+            display: inline-block;
+            background-color: transparent;
+            min-width: 52.859px;
+        }
 
-               .dropdown-content {
-                    display: none;
-                    position: absolute;
-                    background-color: rgba(60, 100, 140, 1);
-                    min-width: 52.859px;
-                    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-                    z-index: 1;
-                }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: rgba(60, 100, 140, 1);
+            min-width: 52.859px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
 
-               .dropdown-content a {
-                   color: #000;
-                   padding: 14px 16px;
-                   text-decoration: none;
-                   display: block;
-               }
+        .dropdown-content a {
+            color: transparent;
+            padding: 14px 16px;
+            text-decoration: none;
+            display: block;
+        }
 
-              .dropdown-content a:hover {background-color: #ddd;}
+        .dropdown-content a:hover {
+            background-color: #15579980;
+        }
 
-              .dropdown:hover .dropdown-content {display: block;}
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
 
-              .dropdown:hover .dropbtn {background-color: rgba(122, 122, 122, 0.4);}
+        .dropdown:hover .dropbtn {
+            background-color: rgba(122, 122, 122, 0.4);
+        }
     </style>
 </head>
 <body>
