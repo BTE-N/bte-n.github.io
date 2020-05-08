@@ -4,6 +4,19 @@ permalink: /About.html
 
 # About Us
 
+* [Who are we?](#Who-are-we?)
+* [Philosophy](#Philosophy)
+* [Contribute](#Contribute)
+* [Members](#Members)
+
+## Who are we?
+
+## Philosophy
+
+## Contribute
+
+## Members
+
 The Build The Earth: Norming Project Team currently has these members:
 
 ### Core Team
