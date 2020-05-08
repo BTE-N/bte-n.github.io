@@ -1,3 +1,7 @@
+---
+permalink: /About.html
+---
+
 # About Us
 
 The Build The Earth: Norming Project Team currently has these members:
