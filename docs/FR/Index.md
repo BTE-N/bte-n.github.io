@@ -5,7 +5,7 @@ N2. [Infrastructure](#n2-infrastructure) <br/>
 N3. [Véhicules](#n3-véhicules) <br/>
 N4. [Logos, Drapeau et Banières](#n4-logos-drapeaux-et-banières) <br/>
 N5. [Décorations](#n5-décorations) <br/>
-N6. [Other](#n6-other)
+N6. [Autres](#n6-autres)
 
 ***
 
@@ -57,7 +57,7 @@ N6. [Other](#n6-other)
 
 ***
 
-## N6: Divers
+## N6: Autres
 ### N6.1: Glossaire
 [N6.1.1: Têtes](/BTEN/FR/N6/1/1)
 
