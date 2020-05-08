@@ -23,7 +23,8 @@ N6. [Other](#n6-other)
 [N2.1.2: Bus stop sign](/BTEN/EN/N2/1/2) <br/>
 [N2.1.3: Traffic light banner](/BTEN/EN/N2/1/3)
 ### N2.2: Railways
-[N2.2.1: Railways](/BTEN/EN/N2/2/1)
+[N2.2.1: normal Railways](/BTEN/EN/N2/2/1)
+[N2.2.1: high-speed Railways](/BTEN/EN/N2/2/2)
 ### N2.3: Traffic signs
 
 ***
@@ -35,6 +36,7 @@ N6. [Other](#n6-other)
 [N3.3.1: ICE 3](/BTEN/EN/N3/3/1) <br/>
 [N3.3.2: DB Double decker train (Twindexx)](/BTEN/EN/N3/3/2) <br/>
 [N3.3.3: Electric locomotive (Series 101)](/BTEN/EN/N3/3/3)
+[N3.3.4: IC2 ](/BTEN/EN/N3/3/4)
 ### N3.4: Planes
 ### N3.5: Water traffic
 ### N3.6: Other
