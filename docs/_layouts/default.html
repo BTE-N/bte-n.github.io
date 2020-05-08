@@ -17,15 +17,18 @@
     gtag("js", new Date());
     gtag("config", "UA-165741526-1");
 
-    function switchLang(lang) {
-        const currentLang = (location.href.match(/[A-Z]{2}/) || [])[0]
-        if (!currentLang || currentLang === lang) return
-        location.href = location.href.replace(currentLang, lang)
+    function getCurrentLang() {
+        return (location.href.match(/\/BTEN\/([A-Z]{2})\//) || [])[1]
     }
-    function goTo(path) {
-        const lang = (location.href.match(/[A-Z]{2}/) || [])[0]
-        if (!lang) return
-        location.href = `${lang}/${path}`
+    function switchLang(lang) {
+        const currentLang = getCurrentLang()
+        if (currentLang === lang) return
+        if (!currentLang) return goTo("Index", lang)
+        location.href = location.href.replace(`/BTEN/${currentLang}/`, `/BTEN/${lang}/`)
+    }
+    function goTo(path, lang) {
+        lang = lang || getCurrentLang() || "EN"
+        location.href = `/BTEN/${lang}/${path}`
     }
 </script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -64,11 +67,11 @@
 </head>
 <body>
     <ul class="bar">
-        <li class="bar"><a href="#" onclick="switchLang('EN')">🇬🇧/🇺🇸</a></li>
+        <li class="bar"><a href="#" onclick="goTo('index')">Index</a></li>
+        <li class="bar"><a href="#" onclick="switchLang('EN')">🇬🇧</a></li>
         <li class="bar"><a href="#" onclick="switchLang('DE')">🇩🇪</a></li>
         <li class="bar"><a href="#" onclick="switchLang('ES')">🇪🇸</a></li>
         <li class="bar"><a href="#" onclick="switchLang('FR')">🇫🇷</a></li>
-        <li class="bar"><a href="#" onclick="goTo('index')">Index</a></li>
         <li style="float: right;" class="bar a"><a href="/BTEN/About">About Us</a></li>
         <li style="float: right;" class="bar"><a href="https://discord.gg/eXzrZSx">Discord</a></li>
     </ul>
