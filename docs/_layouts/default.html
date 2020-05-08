@@ -48,6 +48,16 @@
                 }
             }
         }
+
+        const currentLang = getCurrentLang()
+        if (currentLang) {
+            const langSelector = document.getElementById("lang-selector")
+            const currentLangButton = document.getElementById(`dd-lang-${currentLang}`)
+            if (currentLangButton) {
+                currentLangButton.remove()
+                langSelector.innerText = `test ${currentLang}`
+            }
+        }
     </script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#157878" />
@@ -132,13 +142,13 @@
     <ul class="bar">
         <!-- Language Select -->
         <li class="bar"><div class="dropdown">
-            <button class="dropbtn" onclick="dropdownClick()">🌍</button>
+            <button class="dropbtn" onclick="dropdownClick()" id="lang-selector">🌍</button>
             <div class="dropdown-content">
-               <a href="#" onclick="switchLang('EN')">🇬🇧</a>
-               <a href="#" onclick="switchLang('DE')">🇩🇪</a>
-               <a href="#" onclick="switchLang('ES')">🇪🇸</a>
-               <a href="#" onclick="switchLang('FR')">🇫🇷</a>
-               <a href="#" onclick="switchLang('IT')">🇮🇹</a>
+               <a href="#" onclick="switchLang('EN')" id="dd-lang-EN">🇬🇧</a>
+               <a href="#" onclick="switchLang('DE')" id="dd-lang-DE">🇩🇪</a>
+               <a href="#" onclick="switchLang('ES')" id="dd-lang-ES">🇪🇸</a>
+               <a href="#" onclick="switchLang('FR')" id="dd-lang-FR">🇫🇷</a>
+               <a href="#" onclick="switchLang('IT')" id="dd-lang-IT">🇮🇹</a>
             </div>
         </div>
         <li class="bar"><a href="#" onclick="goTo('Index')">Index</a></li>
