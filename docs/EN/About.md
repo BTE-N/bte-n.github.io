@@ -1,7 +1,3 @@
----
-permalink: /About.html
----
-
 # About Us
 
 * [Who are we?](#who-are-we)
