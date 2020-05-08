@@ -26,4 +26,4 @@ CADO#5826
 
 Join our [Discord Server](https://discord.gg/eXzrZSx)
 
-You are invited to [apply to become a member](https://pxnt.github.io/BTEN/N1.3_EN).
+You are invited to [apply to become a member](https://pxnt.github.io/BTEN/EN/N1/3).
