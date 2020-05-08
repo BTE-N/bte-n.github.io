@@ -4,7 +4,7 @@ permalink: /About.html
 
 # About Us
 
-* [Who are we?](#Who-are-we?)
+* [Who are we?](#who-are-we)
 * [Philosophy](#Philosophy)
 * [Contribute](#Contribute)
 * [Members](#Members)
