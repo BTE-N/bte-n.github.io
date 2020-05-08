@@ -19,7 +19,7 @@ N6. [Altro](#n6-other)
 
 ## N2: Infrastrutture
 ### N2.1: Vie
-[N2.1.1: Cestini e cassonetti della spazzatura con ruote (Per case e uffici)](/BTEN/EN/N2/1/1) <br/>
+[N2.1.1: Cestini e cassonetti della spazzatura con ruote (Per case e uffici)](/BTEN/IT/N2/1/1) <br/>
 [N2.1.2: Fermata del bus](/BTEN/EN/N2/1/2) <br/>
 [N2.1.3: Banner dei semafori](/BTEN/EN/N2/1/3)
 ### N2.2: Binari
@@ -54,7 +54,7 @@ N6. [Altro](#n6-other)
 
 ## N5: Decorazioni
 ### N5.1: Negozi
-[N5.1.1: Shopping venture](/BTEN/EN/N5/1/1)
+[N5.1.1: Carrelli](/BTEN/EN/N5/1/1)
 ### N5.2: Decorazioni esterne
 
 ***
