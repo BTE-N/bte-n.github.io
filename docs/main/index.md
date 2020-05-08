@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 ### Welcome to the Norming project!
 
 Started from a small team of German people, the Norming Project sets out to do the task of becoming a platform for normalization of objects and infrastructure pieces as well as providing assets - such as vehicles - to the community to ease in their creative process in the Build The Earth project.
