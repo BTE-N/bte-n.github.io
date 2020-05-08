@@ -11,9 +11,9 @@ N6. [Other](#n6-other)
 
 ## N1: Information sur les normes
 
-[N1.1: About Norms](/BTFR/FR/N1/1) <br/>
-[N1.2: Submitting Norms](/BTFR/FR/N1/2) <br/>
-[N1.3: Applying for the Norming Committee](/BTFR/FR/N1/3)
+[N1.1: A propos des normes](/BTFR/FR/N1/1) <br/>
+[N1.2: Soumettre une norme](/BTFR/FR/N1/2) <br/>
+[N1.3: Postuler pour le comité des normes](/BTFR/FR/N1/3)
 
 ***
 
@@ -42,7 +42,7 @@ N6. [Other](#n6-other)
 ***
 
 ## N4: Logos, Drapeaux and Bannières
-### N4.1: Official Flags and Banner
+### N4.1: Drapeaux officiels et bannières
 [N4.1.1: Drapeaux des états allemands](/BTFR/FR/N4/1/1) <br/>
 [N4.1.2: Drapeaux des pays](/BTFR/FR/N4/1/2) <br/>
 ### N4.2: Logos
