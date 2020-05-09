@@ -23,6 +23,8 @@ N6. [Anderes](#n6-anderes)
 [N2.1.2: Haltestellenschild](/BTEN/DE/N2/1/2) <br/>
 [N2.1.3: Ampelbanner](/BTEN/DE/N2/1/3)
 ### N2.2: Schienenverkehr
+[N2.2.1 Schienen](/BTEN/DE/N2/2/1)
+[N2.2.2 Hochgeschwindigkeits-Schiene](/BTEN/DE/N2/2/2)
 ### N2.3: Verkehrszeichen und -schilder
 
 ***
