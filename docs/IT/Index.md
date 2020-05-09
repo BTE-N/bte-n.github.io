@@ -23,8 +23,6 @@ N6. [Altro](#n6-other)
 [N2.1.2: Fermata del bus](/BTEN/IT/N2/1/2) <br/>
 [N2.1.3: Banner dei semafori](/BTEN/IT/N2/1/3)
 ### N2.2: Binari
-[N2.2.1: Binari normali](/BTEN/IT/N2/2/1)    
-[N2.2.2: Binari ad alta velocità](/BTEN/IT/N2/2/2)
 ### N2.3: Segni stradali
 
 ***
