@@ -23,8 +23,8 @@ N6. [Anderes](#n6-anderes)
 [N2.1.2: Haltestellenschild](/BTEN/DE/N2/1/2) <br/>
 [N2.1.3: Ampelbanner](/BTEN/DE/N2/1/3)
 ### N2.2: Schienenverkehr
-[N2.2.1: Schienen](/BTEN/DE/N2/2/1) <br/>
-[N2.2.2: Hochgeschwindigkeitsschienen](/BTEN/DE/N2/2/2)
+! [N2.2.1: Schienen](/BTEN/DE/N2/2/1) <br/>
+! [N2.2.2: Hochgeschwindigkeitsschienen](/BTEN/DE/N2/2/2)
 ### N2.3: Verkehrszeichen und -schilder
 
 ***
@@ -34,8 +34,8 @@ N6. [Anderes](#n6-anderes)
 ### N3.2: LKWs
 ### N3.3: Züge
 [N3.3.1: ICE 3](/BTEN/DE/N3/3/1)    
-[N3.3.2: DB Doppelstockzug (Twindexx)](/BTEN/DE/N3/3/2)    
-[N3.3.3: Elektrolokomotive (Baureihe 101)](/BTEN/DE/N3/3/3)    
+[N3.3.2: DB Doppelstockzug (Twindexx)](/BTEN/main/404.md)    
+[N3.3.3: Elektrolokomotive (Baureihe 101)](/BTEN/main/404.md)    
 [N3.3.4: IC2](/BTEN/DE/N3/3/4)
 ### N3.4: Flugzeuge
 ### N3.5: Wasserverkehr
