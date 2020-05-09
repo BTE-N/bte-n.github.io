@@ -46,18 +46,41 @@
             }
         }
 
-        const indexName = {
-            EN: "Index",
-            DE: "Index",
-            ES: "Índice",
-            FR: "Index",
-            IT: "Indice"
+        const i18n = {
+            EN: {
+                index: "Index",
+                about: "About Us"
+            },
+            DE: {
+                index: "Index",
+                about: "Über Uns"
+            },
+            ES: {
+                index: "Índice",
+                about: "Acerca De"
+            },
+            FR: {
+                index: "Index",
+                about: "À propos de Nous"
+            },
+            IT: {
+                index: "Indice",
+                about: "Riguardo a Noi"
+            },
+            SV: {
+                index: "Index",
+                about: "Om Oss"
+            }
         }
+
         document.addEventListener("DOMContentLoaded", () => {
             const currentLang = getCurrentLang()
-            const indexButton = document.getElementById("index-button")
+            const indexButton = document.getElementById("index-btn")
+            const aboutButton = document.getElementById("about-btn")
             if (indexButton)
-                indexButton.innerText = indexName[currentLang || "EN"]
+                indexButton.innerText = (i18n[currentLang] || i18n.EN).index
+            if (aboutButton)
+                aboutButton.innerText = (i18n[currentLang] || i18n.EN).about
             if (currentLang && currentLang !== "EN") {
                 const langSelectorIcon = document.querySelector("#lang-selector > .icon")
                 const currentLangButton = document.querySelector(`#dd-lang-${currentLang}`)
@@ -196,9 +219,9 @@
                <a href="#" onclick="switchLang('SV')" id="dd-lang-SV" title="Svenska"><div class="icon flag-SV"></div></a>
             </div>
         </div>
-        <li class="bar"><a href="#" onclick="goTo('Index')" id="index-button"></a></li>
+        <li class="bar"><a href="#" onclick="goTo('Index')" id="index-btn"></a></li>
         <!-- Right-Side Items -->
-        <li style="float: right;" class="bar a"><a href="#" onclick="goTo('About')">About Us</a></li>
+        <li style="float: right;" class="bar a"><a href="#" onclick="goTo('About')" id="about-btn"></a></li>
         <li style="float: right;" class="bar"><a href="https://discord.gg/eXzrZSx">Discord</a></li>
     </ul>
     <!-- Large Banner -->
