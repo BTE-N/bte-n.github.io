@@ -13,18 +13,14 @@ Es versucht, Informationen und Ressourcen für den Bau von wiederkehrenden Struk
 
 ## Die Idee
 
-The *BTEN* wiki is based on total collaboration, where people from all areas and knowledge fields contribute depending on their abilities and interests.    
-Everyone can work on any document if they choose to, and the project is mostly based on trust basis, although we have a team overseeing the process to ensure things are steering in the right direction.    
-It is crucial to communicate frequently and to ensure that decisions are made in everyone's best interest, which sometimes require a vote.
+Das *BTEN* Wiki basiert auf einer umfassenden Zusammenarbeit, bei der Menschen aus allen Bereichen und Wissensbereichen je nach ihren Fähigkeiten und Interessen einen Beitrag leisten können. Jeder kann an jedem Dokument arbeiten, wenn er möchte, und das Projekt basiert größtenteils auf Vertrauensbasis, obwohl wir ein Team haben, das den Prozess überwacht, um sicherzustellen, dass die Dinge in die richtige Richtung gehen. Es ist wichtig, häufig zu kommunizieren und sicherzustellen, dass Entscheidungen im besten Interesse aller getroffen werden, was manchmal eine Abstimmung erfordert.
 
 
 ## Beitragen
 
-As we are evergrowing, we are very open to accepting new members into the team behind the *Norming Project*.    
-Be it because you like to contribute using your own experience in worldbuilding, or have time on your hands you want to put to good use to add and update norms, or because you are interested in translating and updating the website into languages you can speak.
+Da wir immer größer werden, sind wir sehr offen dafür, neue Mitglieder in das Team hinter dem Norming Project aufzunehmen. Sei du es, wenn du gerne deine eigenen Erfahrungen im Bereich Worldbuilding einbringen oder Zeit zur Verfügung hast, die du zum Hinzufügen und Aktualisieren von Normen nutzen möchtest, oder weil du daran interessiert bist, die Website in Sprachen zu übersetzen und zu aktualisieren, die du sprechen kannst.
 
-If you are interested, you can join the [Discord Server](https://discord.gg/eXzrZSx) and communicate with the members to establish your interests, and to get you ready for whichever way you are planning on contributing.    
-The server is also a platform for discussion and support.
+Wenn du interessiert bist, kannst du dich dem [Discord Server](https://discord.gg/eXzrZSx) anschließen um mit den Mitgliedern zu kommunizieren und um zu besprechen wie du einen Beitrag leisten kannst. Der Server ist auch eine Plattform für Diskussionen und Support.
 
 
 ## Mitglieder
@@ -50,4 +46,4 @@ Tito_zz#3452 (EN, DE, ES)
 
 ***
 
-Join our [Discord Server](https://discord.gg/eXzrZSx)
+Trete unserem [Discord Server](https://discord.gg/eXzrZSx)bei !
