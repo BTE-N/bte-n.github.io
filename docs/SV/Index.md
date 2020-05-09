@@ -1,5 +1,5 @@
 # Index    
-N1. [Om Norming](# N1: Om Norming)       
+N1. [Om Normering](# N1: Om Normering)       
 N2. [Infrastruktur](# N2: Infrastruktur )       
 N3. [Fordon](# N3: Fordon)        
 N4. [Logotyper, Flaggor och Banners](# N4: Logotyper, Flaggor och Banners)         
@@ -8,10 +8,10 @@ N6. [Övrigt](# N6: Övrigt)
 
 ***
 
-## N1: Om Norming    
-N1.1: Om Norms    
-N1.2: Lämna in Norms    
-N1.3: Ansökan för Norming Utskottet    
+## N1: Om Normering   
+N1.1: Om Normer  
+N1.2: Lämna in Normer    
+N1.3: Ansökan för Norm Utskottet    
 
 ***
 
