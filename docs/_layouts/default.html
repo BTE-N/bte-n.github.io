@@ -55,7 +55,7 @@
         }
         document.addEventListener("DOMContentLoaded", () => {
             const currentLang = getCurrentLang()
-            const indexButton = document.getElementById("#index-button")
+            const indexButton = document.getElementById("index-button")
             if (indexButton)
                 indexButton.innerText = indexName[currentLang || "EN"]
             if (currentLang && currentLang !== "EN") {
@@ -192,7 +192,7 @@
                <a href="#" onclick="switchLang('IT')" id="dd-lang-IT" title="Italiano"><div class="icon flag-IT"></div></a>
             </div>
         </div>
-        <li class="bar"><a href="#" onclick="goTo('Index')" id="index-button">Index</a></li>
+        <li class="bar"><a href="#" onclick="goTo('Index')" id="index-button"></a></li>
         <!-- Right-Side Items -->
         <li style="float: right;" class="bar a"><a href="#" onclick="goTo('About')">About Us</a></li>
         <li style="float: right;" class="bar"><a href="https://discord.gg/eXzrZSx">Discord</a></li>
