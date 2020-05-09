@@ -23,7 +23,7 @@ N6. [Otros](#n6-otros)
 [N2.1.2: Cartel de Parada de Autobús](/BTEN/ES/N2/1/2) <br/>
 [N2.1.3: Banner de Semáforo](/BTEN/ES/N2/1/3)
 ### N2.2: Vías Férreas
-[N2.2.1: Vías Férreas](/BTEN/ES/N2/2/1)
+! [N2.2.1: Vías Férreas]
 ### N2.3: Señales de Tráfico
 
 ***
