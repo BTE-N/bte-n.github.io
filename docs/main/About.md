@@ -51,7 +51,6 @@ Pinguino82#0356 (EN, IT)
 Nudelsuppe_42_#3571 (EN, DE)    
 Tito_zz#3452 (EN, DE, ES)
 
-
 ***
 
 Join our [Discord Server](https://discord.gg/eXzrZSx)
