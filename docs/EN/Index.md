@@ -23,8 +23,6 @@ N6. [Other](#n6-other)
 [N2.1.2: Bus stop sign](/BTEN/EN/N2/1/2) <br/>
 [N2.1.3: Traffic light banner](/BTEN/EN/N2/1/3)
 ### N2.2: Railways
-! [N2.2.1: normal Railways] 
-! [N2.2.2: high-speed Railways]
 ### N2.3: Traffic signs
 
 ***
