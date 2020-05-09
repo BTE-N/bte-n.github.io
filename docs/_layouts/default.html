@@ -46,8 +46,18 @@
             }
         }
 
+        const indexName = {
+            EN: "Index",
+            DE: "Index",
+            ES: "Índice",
+            FR: "Index",
+            IT: "Indice"
+        }
         document.addEventListener("DOMContentLoaded", () => {
             const currentLang = getCurrentLang()
+            const indexButton = document.getElementById("#index-button")
+            if (indexButton)
+                indexButton.innerText = indexName[currentLang || "EN"]
             if (currentLang && currentLang !== "EN") {
                 const langSelectorIcon = document.querySelector("#lang-selector > .icon")
                 const currentLangButton = document.querySelector(`#dd-lang-${currentLang}`)
@@ -60,6 +70,7 @@
                     englishButton.href = "#"
                     englishButton.onclick = "switchLang('EN')"
                     englishButton.id = "dd-lang-EN"
+                    englishButton.title = "Index"
                     const englishIcon = document.createElement("div")
                     englishIcon.classList.add("icon", "flag-EN")
                     englishButton.append(englishIcon)
@@ -175,13 +186,13 @@
         <li class="bar"><div class="dropdown">
             <button class="dropbtn" onclick="dropdownClick()" id="lang-selector"><div class="icon flag-EN"></div></button>
             <div class="dropdown-content">
-               <a href="#" onclick="switchLang('DE')" id="dd-lang-DE"><div class="icon flag-DE"></div></a>
-               <a href="#" onclick="switchLang('ES')" id="dd-lang-ES"><div class="icon flag-ES"></div></a>
-               <a href="#" onclick="switchLang('FR')" id="dd-lang-FR"><div class="icon flag-FR"></div></a>
-               <a href="#" onclick="switchLang('IT')" id="dd-lang-IT"><div class="icon flag-IT"></div></a>
+               <a href="#" onclick="switchLang('DE')" id="dd-lang-DE" title="Deutsch"><div class="icon flag-DE"></div></a>
+               <a href="#" onclick="switchLang('ES')" id="dd-lang-ES" title="Español"><div class="icon flag-ES"></div></a>
+               <a href="#" onclick="switchLang('FR')" id="dd-lang-FR" title="Français"><div class="icon flag-FR"></div></a>
+               <a href="#" onclick="switchLang('IT')" id="dd-lang-IT" title="Italiano"><div class="icon flag-IT"></div></a>
             </div>
         </div>
-        <li class="bar"><a href="#" onclick="goTo('Index')">Index</a></li>
+        <li class="bar"><a href="#" onclick="goTo('Index')" id="index-button">Index</a></li>
         <!-- Right-Side Items -->
         <li style="float: right;" class="bar a"><a href="#" onclick="goTo('About')">About Us</a></li>
         <li style="float: right;" class="bar"><a href="https://discord.gg/eXzrZSx">Discord</a></li>
