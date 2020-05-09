@@ -18,10 +18,10 @@ N1.3: Ansökan för Norm Utskottet
 ## N2: Infrastruktur    
 ### N2.1: Gator    
 N2.1.1: Soptunnor med hjul (för hushåll och företag)      
-N2.1.2: Busshållplats skylt    
-N2.1.3: Trafikljus banner    
 ### N2.2: Järnvägar      
 ## N2.3: Trafikskyltar
+N2.3.1: Busshållplats skylt    
+N2.3.2: Trafikljus banner    
 
 ***
 

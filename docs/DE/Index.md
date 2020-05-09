@@ -1,31 +1,31 @@
 # Index
 
-N1. [Über Normierung](#n1-über-normierung) <br/>
-N2. [Infrastruktur](#n2-infrastruktur) <br/>
-N3. [Fahrzeuge](#n3-fahrzeuge) <br/>
-N4. [Logos, Fahnen und Banner](#n4-logos-fahnen-und-banner) <br/>
-N5. [Dekorationen](#n5-dekorationen) <br/>
+N1. [Über Normierung](#n1-über-normierung)  
+N2. [Infrastruktur](#n2-infrastruktur)  
+N3. [Fahrzeuge](#n3-fahrzeuge)  
+N4. [Logos, Fahnen und Banner](#n4-logos-fahnen-und-banner)  
+N5. [Dekorationen](#n5-dekorationen)  
 N6. [Anderes](#n6-anderes)
 
 ***
 
 ## N1: Über Normierung
 
-[N1.1: Über Normen](/BTEN/DE/N1/1) <br/>
-[N1.2: Eine Norm einreichen](/BTEN/DE/N1/2) <br/>
+[N1.1: Über Normen](/BTEN/DE/N1/1)  
+[N1.2: Eine Norm einreichen](/BTEN/DE/N1/2)  
 [N1.3: Für das Normierungskomitee bewerben](/BTEN/DE/N1/3)
 
 ***
 
 ## N2: Infrastruktur
 ### N2.1: Straßen
-[N2.1.1: Fahrende Abfallbehälter (Haushalts- & Gewerbeabfall)](/BTEN/DE/N2/1/1) <br/>
-[N2.1.2: Haltestellenschild](/BTEN/DE/N2/1/2) <br/>
-[N2.1.3: Ampelbanner](/BTEN/DE/N2/1/3)
+[N2.1.1: Fahrende Abfallbehälter (Haushalts- & Gewerbeabfall)](/BTEN/DE/N2/1/1)  
 ### N2.2: Schienenverkehr
-[N2.2.1 Schienen](/BTEN/DE/N2/2/1)
-[N2.2.2 Hochgeschwindigkeits-Schiene](/BTEN/DE/N2/2/2)
+[N2.2.1: Schienen](/BTEN/DE/N2/2/1)
+[N2.2.2: Hochgeschwindigkeits-Schiene](/BTEN/DE/N2/2/2)
 ### N2.3: Verkehrszeichen und -schilder
+[N2.3.1: Haltestellenschild](/BTEN/DE/N2/3/1)  
+[N2.3.2: Ampelbanner](/BTEN/DE/N2/3/2)
 
 ***
 
@@ -45,7 +45,7 @@ N6. [Anderes](#n6-anderes)
 
 ## N4: Logos, Fahnen und Banner
 ### N4.1: Offizielle Fahnen und Banner
-[N4.1.1: Bundesländerflaggen](/BTEN/DE/N4/1/1) <br/>
+[N4.1.1: Bundesländerflaggen](/BTEN/DE/N4/1/1)  
 [N4.1.2: Länderflaggen](/BTEN/DE/N4/1/2)
 ### N4.2: Logos
 [N4.2.1: Firmenlogos](/BTEN/DE/N4/2/1)
