@@ -46,4 +46,4 @@ Tito_zz#3452 (EN, DE, ES)
 
 ***
 
-Join our Discord Server
+Join our [Discord Server](https://discord.gg/eXzrZSx)
