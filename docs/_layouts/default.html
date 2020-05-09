@@ -48,13 +48,22 @@
 
         document.addEventListener("DOMContentLoaded", () => {
             const currentLang = getCurrentLang()
-            if (currentLang) {
+            if (currentLang && currentLang !== "EN") {
                 const langSelectorIcon = document.querySelector("#lang-selector > .icon")
                 const currentLangButton = document.querySelector(`#dd-lang-${currentLang}`)
                 if (currentLangButton) {
                     currentLangButton.remove()
                     langSelectorIcon.classList.remove("flag-EN")
                     langSelectorIcon.classList.add(`flag-${currentLang}`)
+                    const langs = document.querySelector("#lang-selector + .dropdown-content")
+                    const englishButton = document.createElement("a")
+                    englishButton.href = "#"
+                    englishButton.onclick = "switchLang('EN')"
+                    englishButton.id = "dd-lang-EN"
+                    const englishIcon = document.createElement("div")
+                    englishIcon.classList.add("icon", "flag-EN")
+                    englishButton.append(englishIcon)
+                    langs.prepend(englishButton)
                 }
             }
         })
