@@ -23,7 +23,6 @@ N6. [Autres](#n6-autres)
 [N2.1.2: Arrêt de bus allemands](/BTEN/FR/N2/1/2) <br/>
 [N2.1.3: Feu tricolore](/BTEN/FR/N2/1/3)
 ### N2.2: Voies ferrées
-[N2.2.1: Voies ferrées en bois](/BTEN/FR/N2/2/1)
 ### N2.3: Traffic signs
 
 ***
