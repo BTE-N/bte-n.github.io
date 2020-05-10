@@ -49,27 +49,33 @@
         const i18n = {
             EN: {
                 index: "Index",
-                about: "About us"
+                about: "About us",
+                footer: "BTEN is maintained by the [BTEN Team]."
             },
             DE: {
                 index: "Index",
-                about: "Über uns"
+                about: "Über uns",
+                footer: "BTEN wird vom [BTEN Team] instand gehalten."
             },
             ES: {
                 index: "Índice",
-                about: "Acerca de"
+                about: "Acerca de",
+                footer: "BTEN está mantenido por el [Equipo BTEN]."
             },
             FR: {
                 index: "Index",
-                about: "À propos de nous"
+                about: "À propos de nous",
+                footer: ""
             },
             IT: {
                 index: "Indice",
-                about: "Su di noi"
+                about: "Su di noi",
+                footer: ""
             },
             SV: {
                 index: "Index",
-                about: "Om oss"
+                about: "Om oss",
+                footer: ""
             }
         }
 
@@ -77,10 +83,14 @@
             const currentLang = getCurrentLang()
             const indexButton = document.getElementById("index-btn")
             const aboutButton = document.getElementById("about-btn")
+            const footerText = document.getElementById("footer-text")
             if (indexButton)
                 indexButton.innerText = (i18n[currentLang] || i18n.EN).index
             if (aboutButton)
                 aboutButton.innerText = (i18n[currentLang] || i18n.EN).about
+            if (footerText)
+                footerText.innerHTML = (i18n[currentLang] || i18n.EN).footer
+                    .replace(/\[(.+?)\]/, `<a href="#" onclick="goTo('About')">$1</a>`)
             if (currentLang && currentLang !== "EN") {
                 const langSelectorIcon = document.querySelector("#lang-selector > .icon")
                 const currentLangButton = document.querySelector(`#dd-lang-${currentLang}`)
@@ -245,7 +255,7 @@
 
         <footer class="site-footer">
             {% if site.github.is_project_page %}
-            <span class="site-footer-owner"><a href="{{ site.github.page }}">{{ site.github.repository_name }}</a> is maintained by the <a href="/BTEN/About">BTEN Team</a>.</span>
+            <span class="site-footer-owner" id="footer-text"></span>
             {% endif %}
         </footer>
     </main>
