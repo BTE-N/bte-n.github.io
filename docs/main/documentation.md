@@ -4,7 +4,8 @@ permalink: /documentation.html
 
 # Welcome to our Documentation page!
 
-{:.warning} **Recommended:** If you want to make sure you don't miss anything and have no awkward occurences further down the road, just read the entire site from top to bottom. This will make sure you are as prepared as you could be on your journey to being a Team Member!
+{:.warning}
+**Recommended:** If you want to make sure you don't miss anything and have no awkward occurences further down the road, just read the entire site from top to bottom. This will make sure you are as prepared as you could be on your journey to being a Team Member!
 
 Hi! I'm Pxnt.
 
