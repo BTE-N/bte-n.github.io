@@ -10,12 +10,15 @@ On this page, I will try my  best to guide you to becoming a contributor of the 
 
 In the course of the tutorials presented on this page, you will be creating and editing your own page, which the project lead will take as a welcomed symbol of you taking the time to learn more about GitHub and our project!
 
+**Recommended: If you want to make sure you don't miss anything and have no awkward occurences further down the road, just read the entire site from top to bottom. This will make sure you are as prepared as you could be on your journey to being a Team Member!**
+
 ⚠️ As being able to speak English is generally required as a team member, this page is only available in English.
 
 ***
 
 ### Contents
 
+* [**Guidelines (Boring but very important!)**](#guidelines)
 * [What is GitHub?](#what-is-github)
 * [How do I create an account!](#creating-an-account)
 * [How do I navigate GitHub?](#navigating-github)
@@ -32,6 +35,12 @@ In the course of the tutorials presented on this page, you will be creating and 
 Starting from the very beginning, eh? No worries! We intend to be welcoming to even the most unfamilliar-to-GitHub people out there - so not knowing what you'll be working with is absolutely no problem!    
 
 [GitHub](https://github.com/) is a platform to collaboratively code (in our case, write) on one project together. Everyone can contribute to the project within their own abilities, in our case mostly which languages they speak and what fields they are interested in. There is no experience with coding needed to manouver the website, and with a little time I'm sure you'll know the site like your own back pocket - and who knows, that might even serve you in your own future!
+
+***
+
+## Creating an account
+
+Before you can work on anything on GitHub, you'll need an account. If you don't have one already, you can create one right now on the [Sign Up](https://github.com/join) page. We will need to know your username once you decide to join and become team member, as we like to let users skip the per-page verification process and directly submit to the 
 
 ***
 
@@ -53,6 +62,8 @@ Let's try creating a file. You should still be looking at the file creation page
 
 To create your file, let's give it an actual name! How about your GitHub or Discord username and the current date? For me, this would be `Pxnt-11052020`. Enter your version of this, and don't forget to add the file extension! As our website generator reads *Markdown* files, we need to make sure all of our files are markdown. Make yours one of the team by adding `.md` to the end!
 
-You can now enter anything you like into the body of the 
+You can now enter anything you like into the body of the file. If you don't know how to work with markdown, just keep reading after this article and you'll learn in no time!
+
+Once you're finished, 
 
 ⚠️ You have just been shown how to create a test file. Please do not create random files elsewhere, but . This is considered griefing and will cause you to receive a warning, and a removal from the project if done repeatedly.
