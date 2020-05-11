@@ -15,13 +15,13 @@
     <script>
 
         function handleHash() {
-            const hash = decodeURIComponent(location.hash).slice(1)
-            // location.hash = ""
-            /* const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6")
+            const hash = decodeURIComponent(location.hash).slice(1).replace(/^N/i, "")
+            const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6")
+            if (Array.from(headings).map(el => el.id).includes(hash))
+                return // hash is an actual ID, no need to jump
             for (const heading of headings)
-                if (heading.id === hash) */
-            const heading = document.getElementById(hash)
-            if (heading) heading.scrollIntoView()
+                if (heading.innerText.replace(/^N/i, "").startsWith(`${hash}: `))
+                    heading.scrollIntoView()
         }
         if (location.hash) handleHash()
         window.onhashchange = handleHash
