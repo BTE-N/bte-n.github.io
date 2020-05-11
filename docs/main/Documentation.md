@@ -87,9 +87,9 @@ Before you can work on anything on GitHub, you'll need an account. If you don't 
 
 ## Navigating GitHub
 
-### Section 1: Navigation
-
 There is a slight learning curve involved with moving around on GitHub, so here's some key things you might want to know about using the site. Just follow this tutorial along, I recommend that you open the pages as they are talked about so you can see what I'm talking about.
+
+### Section 1: Navigation
 
 Generally speaking, projects like ours are presented on GitHub similarly to a folder with files in it. This folder, in our case, is located at [/pxnt/BTEN](https://github.com/pxnt/BTEN). Press the link and take a look! Here, you see a few files and folders already, as well as the README.md, which is in our case used to send confused people straight to the website, as this super secret behind-the-scenes business is only for you and me! Well, and a few other people.
 
