@@ -1,1 +1,1 @@
-Please follow rules and guidelines on our discord server when creating norms or translating.
+Please follow rules and guidelines on the [documentation page](https://pxnt.github.io/BTEN/documentation#guidelines) of our website when contributing.
