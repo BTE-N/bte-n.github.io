@@ -20,13 +20,13 @@ In the course of the tutorials presented on this page, you will be creating and 
 
 * [**Guidelines (Must-read for every member!)**](#guidelines)
 * [What is GitHub?](#what-is-github)
-* [How do I create an account!](#creating-an-account)
+* [How do I create an account?](#creating-an-account)
 * [How do I navigate GitHub?](#navigating-github)
 * [How do I use markdown?](#using-markdown)
 * [How do I join the project?](#how-to-join)
 * [How do I translate a page?](#how-to-translate)
 * [How do I add new Norms?](#adding-new-norms)
-*
+* [bla]()
 
 ***
 
@@ -104,4 +104,13 @@ You can now enter anything you like into the body of the file. If you don't know
 
 Once you're finished, scroll down to "Commit changes". If you are a Team Member already, this will directly add your file to the website. Otherwise, you will have create a "new branch". In this case, you can then send a pull request (on the branch page, there should be menu text telling you how to), and after being accepted into the team, your test file will be added to the `/spam/` folder. You should now be able to find it at [/docs/spam](https://github.com/pxnt/BTEN/tree/master/docs/spam) - my file, for example, is now [here](https://github.com/pxnt/BTEN/blob/master/docs/spam/Pxnt-11052020.md).
 
-⚠️ You have just been shown how to create a test file. Please do not create random files elsewhere, but in `/spam`. This is considered griefing and will cause you to receive a warning, and a removal from the project if done repeatedly.
+⚠️ You have just been shown how to create a test file. Please do not create random files elsewhere, but in `/spam`. This is considered [griefing](#section-4-griefing) and will cause you to receive a warning, and a removal from the project if done repeatedly.
+
+***
+
+## Using Markdown
+
+Markdown is the language we use to format every page. Thanks to a software called Jekyll, this markdown is then converted into html (the language websites are displayed with) and sent straight to our website. The reason we use markdown is because of its simplicity. Without knowing, you might have used it before, for example on Discord, Reddit, or even messengers like WhatsApp or Telegram.
+
+Markdown allows us to make text **bold**, but much more importantly, allows us to embed images, add links, add headers and subheaders, and generally making the website many times more appealing than a simple wall of text. Ironically, this is still quite a wall of text, so I do apologize - and at the same time thank you for taking your time in reading it.
+
