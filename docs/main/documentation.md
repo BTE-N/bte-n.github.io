@@ -18,7 +18,7 @@ In the course of the tutorials presented on this page, you will be creating and 
 
 ### Contents
 
-* [**Guidelines (Boring but very important!)**](#guidelines)
+* [**Guidelines (Must-read for every member!)**](#guidelines)
 * [What is GitHub?](#what-is-github)
 * [How do I create an account!](#creating-an-account)
 * [How do I navigate GitHub?](#navigating-github)
@@ -27,6 +27,44 @@ In the course of the tutorials presented on this page, you will be creating and 
 * [How do I translate a page?](#how-to-translate)
 * [How do I add new Norms?](#adding-new-norms)
 *
+
+***
+
+## Guidelines
+
+⚠️ This section is **very important**. By becoming a Team Member, you certify that you have read **at least** this section. If you make a mistake, while we acknowledge making mistakes is human, we will judge you with the assumption that you have read this page.
+
+Being Team Member of the Norming Project carries both great power and great responsibility with it. You are given the ability to modify every page, every word written on the website, and there is nothing between you pressing "Commit" and the website publishing your changes for the world to see.
+This means, it is your responsibility to ensure that what you add to or remove from the page is within the best interests of everyone involved, that means your fellow members, the project lead as well as the broader Build The Earth community as a whole, which uses our website as a resource and guideline.
+
+### Section 1: Common Sense
+
+Generally speaking, everything in these guidelines should be common sense. We ask you, dear reader, to always observe your own actions when working on this GitHub project. This means: ask yourself, "is this okay to do?", and if the answer is anything but a "definitely!", don't hesitate to read up on these Guidelines or ask a Core Team- or Advanced Member.
+
+### Section 2: Translations
+
+This project features translations into any language that we have members to support it with, and is open to any new members contributing to new languages or joining to help with an existing one. 
+
+While translating, you should attempt to translate in a way that retains the meaning and emphases that are set in each text section, while making sure the text is also nice to read in your language, similarly to how Wikipedia articles are written.
+
+We cannot ensure the quality of each translation due to very obvious language limitations, so we rely on trust and feedback to ensure the quality of each contribution.
+
+There is no upper limit to how many people can work on one language, but members are encouraged to also consider contributing to other areas of the project if there is nothing to translate at that time.
+
+### Section 3: Contribution
+
+Besides translating a norm, section or page, there is also adding new content or norms. For many norms and additions, we recommend **at least asking someone of the Core Team** before making a change or addition, to ensure that said addition is in everyone's best interest. For large additions, we may even create votes.
+
+Otherwise, it is fine to add small details where you deem appropriate and sensible, as long as they don't alienate a norm or section or change the context significantly.
+
+### Section 4: Griefing
+
+We consider an action griefing, if it is done with evil intent. This could mean the removal of content, addition of offensive or illegal content, or other actions.    
+Sometimes, bad mistakes (such as accidentally deleting an entire folder including its contents, which should be very unlikely) can also be considered griefing and can be treated as a lighter version of this.
+
+We react to griefing on a term-by-term basis. If it is evident that someone seeks to destroy the website or an individual page, we are likely to remove said person access to the GitHub, and will then assess the situation.
+
+Note that everything on GitHub is saved including its history, so it is easy to revert a file to a previous state, making griefing a waste of your, and our, time.
 
 ***
 
@@ -40,7 +78,7 @@ Starting from the very beginning, eh? No worries! We intend to be welcoming to e
 
 ## Creating an account
 
-Before you can work on anything on GitHub, you'll need an account. If you don't have one already, you can create one right now on the [Sign Up](https://github.com/join) page. We will need to know your username once you decide to join and become team member, as we like to let users skip the per-page verification process and directly submit to the 
+Before you can work on anything on GitHub, you'll need an account. If you don't have one already, you can create one right now on the [Sign Up](https://github.com/join) page. We will need to know your username once you decide to join and become team member, as we like to let users skip the per-page verification process and directly submit to the website.
 
 ***
 
@@ -62,8 +100,8 @@ Let's try creating a file. You should still be looking at the file creation page
 
 To create your file, let's give it an actual name! How about your GitHub or Discord username and the current date? For me, this would be `Pxnt-11052020`. Enter your version of this, and don't forget to add the file extension! As our website generator reads *Markdown* files, we need to make sure all of our files are markdown. Make yours one of the team by adding `.md` to the end!
 
-You can now enter anything you like into the body of the file. If you don't know how to work with markdown, just keep reading after this article and you'll learn in no time!
+You can now enter anything you like into the body of the file. If you don't know how to work with markdown, just keep reading after this article and you'll learn in no time! The next section will also show you how to access your websites.
 
-Once you're finished, 
+Once you're finished, scroll down to "Commit changes". If you are a Team Member already, this will directly add your file to the website. Otherwise, you will have create a "new branch". In this case, you can then send a pull request (on the branch page, there should be menu text telling you how to), and after being accepted into the team, your test file will be added to the `/spam/` folder. You should now be able to find it at [/docs/spam](https://github.com/pxnt/BTEN/tree/master/docs/spam) - my file, for example, is now [here](https://github.com/pxnt/BTEN/blob/master/docs/spam/Pxnt-11052020.md).
 
-⚠️ You have just been shown how to create a test file. Please do not create random files elsewhere, but . This is considered griefing and will cause you to receive a warning, and a removal from the project if done repeatedly.
+⚠️ You have just been shown how to create a test file. Please do not create random files elsewhere, but in `/spam`. This is considered griefing and will cause you to receive a warning, and a removal from the project if done repeatedly.
