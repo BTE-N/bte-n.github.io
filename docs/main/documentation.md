@@ -10,7 +10,7 @@ On this page, I will try my  best to guide you to becoming a contributor of the 
 
 In the course of the tutorials presented on this page, you will be creating and editing your own page, which the project lead will take as a welcomed symbol of you taking the time to learn more about GitHub and our project!
 
-**Recommended: If you want to make sure you don't miss anything and have no awkward occurences further down the road, just read the entire site from top to bottom. This will make sure you are as prepared as you could be on your journey to being a Team Member!**
+### **Recommended: If you want to make sure you don't miss anything and have no awkward occurences further down the road, just read the entire site from top to bottom. This will make sure you are as prepared as you could be on your journey to being a Team Member!**
 
 ⚠️ As being able to speak English is generally required as a team member, this page is only available in English.
 
