@@ -12,12 +12,219 @@
     <meta name="theme-color" content="#ffffff" />
     <!-- Google Analytics, Language Picker, Dropdown Click -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165741526-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+        gtag("config", "UA-165741526-1");
+
+        function getCurrentLang() {
+            return (location.href.match(/\/BTEN\/([A-Z]{2})\//) || [])[1];
+        }
+        function switchLang(lang) {
+            const currentLang = getCurrentLang();
+            if (currentLang === lang) return;
+            if (!currentLang) return goTo("Index", lang);
+            location.href = location.href.replace(`/BTEN/${currentLang}/`, `/BTEN/${lang}/`);
+        }
+        function goTo(path, lang) {
+            lang = lang || getCurrentLang() || "EN";
+            location.href = `/BTEN/${lang}/${path}`;
+        }
+
+        function dropdownClick() {
+            document.getElementById("dropdown").classList.toggle("show");
+        }
+        window.onclick = function(event) {
+            const dropdowns = document.getElementsByClassName("dropdown-content");
+            for (let i = 0; i < dropdowns.length; i++) {
+                const openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains("show"))
+                    openDropdown.classList.remove("show");
+            }
+        }
+
+        const i18n = {
+            EN: {
+                index: "Index",
+                about: "About us",
+                footer: "BTEN is maintained by the [BTEN Team]."
+            },
+            DE: {
+                index: "Index",
+                about: "Über uns",
+                footer: "BTEN wird vom [BTEN Team] instand gehalten."
+            },
+            ES: {
+                index: "Índice",
+                about: "Acerca de",
+                footer: "BTEN está mantenido por el [Equipo BTEN]."
+            },
+            FR: {
+                index: "Index",
+                about: "À propos de nous",
+                footer: ""
+            },
+            IT: {
+                index: "Indice",
+                about: "Su di noi",
+                footer: ""
+            },
+            SV: {
+                index: "Index",
+                about: "Om oss",
+                footer: ""
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            const currentLang = getCurrentLang()
+            const indexButton = document.getElementById("index-btn")
+            const aboutButton = document.getElementById("about-btn")
+            const footerText = document.getElementById("footer-text")
+            if (indexButton)
+                indexButton.innerText = (i18n[currentLang] || i18n.EN).index
+            if (aboutButton)
+                aboutButton.innerText = (i18n[currentLang] || i18n.EN).about
+            if (footerText)
+                footerText.innerHTML = (i18n[currentLang] || i18n.EN).footer
+                    .replace(/\[(.+?)\]/, `<a href="#" onclick="goTo('About')">$1</a>`)
+            if (currentLang && currentLang !== "EN") {
+                const langSelectorIcon = document.querySelector("#lang-selector > .icon")
+                const currentLangButton = document.querySelector(`#dd-lang-${currentLang}`)
+                if (currentLangButton) {
+                    currentLangButton.remove()
+                    langSelectorIcon.classList.remove("flag-EN")
+                    langSelectorIcon.classList.add(`flag-${currentLang}`)
+                    const langs = document.querySelector("#lang-selector + .dropdown-content")
+                    const englishButton = document.createElement("a")
+                    englishButton.href = "#"
+                    englishButton.onclick = () => switchLang("EN")
+                    englishButton.id = "dd-lang-EN"
+                    englishButton.title = "English"
+                    const englishIcon = document.createElement("div")
+                    englishIcon.classList.add("icon", "flag-EN")
+                    englishButton.append(englishIcon)
+                    langs.prepend(englishButton)
+                }
+            }
+        })
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#157878" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
-    <link rel="stylesheet" href="https://pxnt.github.io/assets/css/default.css" />
-    <script src="https://pxnt.github.io/assets/js/default.js"></script>
+    <style>
+        .icon, .inline-icon {
+            background-position: center;
+            background-repeat: no-repeat;
+            width: 20px;
+            height: 20px;
+        }
+        .inline-icon {
+            display: inline-block;
+        }
+        .icon-text {
+            padding-left: 10px;
+        }
+        .flag-EN {
+            background-image: url("data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Ccircle cx='256' cy='256' r='256' fill='%23eee'/%3E%3Cpath fill='%230052b4' d='M53 100.1a255 255 0 0 0-44.2 89.1H142l-89-89zm450.2 89.1a255 255 0 0 0-44.1-89l-89 89h133zM8.8 322.8a255 255 0 0 0 44.1 89l89-89H9zm403-269.9a255 255 0 0 0-89-44V142l89-89zM100.2 459.1a255 255 0 0 0 89.1 44V370l-89 89zm89-450.3a255 255 0 0 0-89 44.1l89 89.1V8.8zm133.6 494.4a255 255 0 0 0 89-44.1l-89-89v133zM370 322.8l89 89a255 255 0 0 0 44.2-89H370z'/%3E%3Cg fill='%23d80027'%3E%3Cpath d='M509.8 222.6H289.4V2.2A258.6 258.6 0 0 0 256 0c-11.3 0-22.5.7-33.4 2.2v220.4H2.2A258.6 258.6 0 0 0 0 256c0 11.3.7 22.5 2.2 33.4h220.4v220.4a258.4 258.4 0 0 0 66.8 0V289.4h220.4A258.5 258.5 0 0 0 512 256c0-11.3-.7-22.5-2.2-33.4z'/%3E%3Cpath d='M322.8 322.8L437 437a256.6 256.6 0 0 0 15-16.4l-97.7-97.8h-31.5zm-133.6 0L75 437a256.6 256.6 0 0 0 16.4 15l97.8-97.7v-31.5zm0-133.6L75 75a256.6 256.6 0 0 0-15 16.4l97.7 97.8h31.5zm133.6 0L437 75a256.3 256.3 0 0 0-16.4-15l-97.8 97.7v31.5z'/%3E%3C/g%3E%3C/svg%3E");
+        }
+        .flag-DE {
+            background-image: url("data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23ffda44' d='M16 345a256 256 0 0 0 480 0l-240-22.2L16 345z'/%3E%3Cpath fill='%23333' d='M256 0A256 256 0 0 0 16 167l240 22.2L496 167A256 256 0 0 0 256 0z'/%3E%3Cpath fill='%23d80027' d='M16 167a255.5 255.5 0 0 0 0 178h480a255.4 255.4 0 0 0 0-178H16z'/%3E%3C/svg%3E");
+        }
+        .flag-ES {
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23ffda44' d='M0 256c0 31.3 5.6 61.3 16 89l240 22.3L496 345a255.5 255.5 0 0 0 0-178l-240-22.3L16 167a255.5 255.5 0 0 0-16 89z'/%3E%3Cpath fill='%23d80027' d='M496 167a256 256 0 0 0-480 0h480zM16 345a256 256 0 0 0 480 0H16z'/%3E%3C/svg%3E");
+        }
+        .flag-FR {
+            background-image: url("data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Ccircle cx='256' cy='256' r='256' fill='%23eee'/%3E%3Cpath fill='%23d80027' d='M512 256A256 256 0 0 0 345 16v480a256 256 0 0 0 167-240z'/%3E%3Cpath fill='%230052b4' d='M0 256a256 256 0 0 0 167 240V16A256 256 0 0 0 0 256z'/%3E%3C/svg%3E");
+        }
+        .flag-IT {
+            background-image: url("data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Ccircle cx='256' cy='256' r='256' fill='%23eee'/%3E%3Cpath fill='%23d80027' d='M512 256A256 256 0 0 0 345 16v480a256 256 0 0 0 167-240z'/%3E%3Cpath fill='%236da544' d='M0 256a256 256 0 0 0 167 240V16A256 256 0 0 0 0 256z'/%3E%3C/svg%3E");
+        }
+        .flag-SV {
+            background-image: url("data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Ccircle cx='256' cy='256' r='256' fill='%23ffda44'/%3E%3Cpath fill='%230052b4' d='M200.3 222.6h309.5A256 256 0 0 0 256 0a256.9 256.9 0 0 0-55.7 6v216.6zm-66.7 0V31.1A256.2 256.2 0 0 0 2.2 222.6h131.4zm0 66.8H2.2a256.2 256.2 0 0 0 131.4 191.5V289.4zm66.7 0v216.5A256.9 256.9 0 0 0 256 512a256 256 0 0 0 253.8-222.6H200.3z'/%3E%3C/svg%3E");
+        }
+
+        ul.bar {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            z-index: 10000;
+            background-color: rgba(0, 149, 255, 0.4);
+        }
+
+        li.bar {
+            float: left;
+        }
+
+        li.bar a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 16px 16px;
+            text-decoration: none;
+        }
+
+        li.bar a:hover:not(.active) {
+            background-color: #15579980;
+            transition: background-color 250ms;
+        }
+
+        .active {
+            background-color: #15579980;
+        }
+        .dropbtn {
+            background-color: transparent;
+            color: #fff;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            width: 100%;
+        }
+
+        .dropdown {
+            position: relative;
+            z-index: 9000;
+            display: inline-block;
+            background-color: transparent;
+            min-width: 52.859px;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: rgba(60, 100, 140, 1);
+            min-width: 52.859px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .dropdown-content a {
+            color: transparent;
+            padding: 14px 16px;
+            text-decoration: none;
+            display: block;
+        }
+
+        .dropdown-content a:hover {
+            background-color: #15579980;
+        }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+            background-color: rgba(122, 122, 122, 0.4);
+        }
+
+        .not-heading {
+            line-height: 10px;
+        }
+    </style>
 </head>
 <body>
     <!-- Menu bar -->
