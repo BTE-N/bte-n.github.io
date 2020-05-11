@@ -13,6 +13,11 @@ This page will try its best to guide you to becoming a contributor of the Normin
 ### Contents
 
 * [What is GitHub?](#what-is-github)
+* [How do I navigate GitHub?](#navigating-github)
+* [How do I join the project?](#how-to-join)
+* [How do I translate a page?](#how-to-translate)
+* [How do I add new Norms?](#adding-new-norms)
+*
 
 ***
 
