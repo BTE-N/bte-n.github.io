@@ -117,6 +117,9 @@ Otherwise, you will have create a "new branch". In this case, you can then send 
 
 You should now be able to find it at [/docs/spam](https://github.com/pxnt/BTEN/tree/master/docs/spam) - my file, for example, is now [here](https://github.com/pxnt/BTEN/blob/master/docs/spam/Pxnt-11052020.md).
 
+{:.info}
+[Read more about GitHub](https://guides.github.com/activities/hello-world/)
+
 {:.warning}
 ⚠️ You have just been shown how to create a test file. Please only create random test files in `/spam/` - not anywhere else. This is considered [griefing](#section-4-griefing) and will cause you to receive a warning, and a removal from the project if done repeatedly.
 
@@ -131,6 +134,8 @@ Markdown is the language we use to format every page. Thanks to a software calle
 Markdown allows us to make text **bold**, but much more importantly, allows us to embed images, add links, add headers and subheaders, and generally making the website many times more appealing than a simple wall of text. Ironically, this is still quite a wall of text, so I do apologize - and at the same time thank you for taking your time in reading it.
 
 ### Section 2: Basic Markdown
+
+
 
 ### Section 3: Links and Images
 
