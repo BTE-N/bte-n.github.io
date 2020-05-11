@@ -135,9 +135,47 @@ Markdown allows us to make text **bold**, but much more importantly, allows us t
 
 ### Section 2: Basic Markdown
 
+There's a few formatting rules you should know. These will quickly burn into your head if they haven't already, so no need to worry!
 
+`*italic* or _italic_` becomes *italic*    
+
+`**bold**` becomes **bold**    
+
+`***` becomes a page seperator    
+
+`# text` becomes a big headline    
+
+`## text` becomes a slightly smaller headline    
+
+`### text` becomes an even smaller headline    
+
+a couple of `* ` or `- ` underneath one another turn into a bulleted list    
+* such
+* as
+* this one
+
+a couple of numbers like `1.` and `2.` underneath one another turn into a numbered list
+1. such
+2. as
+3. that one
+
+{:.info}
+[Click here for a more detailed guide](https://guides.github.com/features/mastering-markdown/)
 
 ### Section 3: Links and Images
+
+`[Click here](https://pxnt.github.io/BTEN/)` becomes [Click here](https://pxnt.github.io/BTEN/)
+
+or save some text when you are on the same page: `[Click here](/BTEN/Documentation)`
+
+you can also link to a title:
+
+`[How do I use markdown?](#using-markdown)`
+
+to add an image, add a `!` in front of your image link:
+
+`![](https://via.placeholder.com/200x50)` becomes    
+![](https://via.placeholder.com/200x50)
 
 ### Section 4: Jekyll Additions
 
@@ -155,6 +193,19 @@ To add an info box to your text, mostly used to inform readers of examples, use 
 
 You can also add entire website content using Jekyll, however this is considered advanced and most likely, you won't ever need it. If you do want to learn about it, or need it, just contact me (Pxnt)!
 
+{:.info}
+[View the Jekyll documentation](https://jekyllrb.com/docs/variables/)
+
+***
+
+## How to join
+
+
+
+
+
+
+***
 
 {:.warning}
 ⚠️ Editing this page is considered griefing.
