@@ -28,4 +28,4 @@ Das Build The Earth: Norming Project Team besteht derzeit aus den folgenden Mitg
 
 ***
 
-Trete unserem [Discord Server](https://discord.gg/eXzrZSx)bei !
+Trete unserem [Discord Server](https://discord.gg/eXzrZSx) bei!
