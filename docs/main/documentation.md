@@ -32,6 +32,7 @@ In the course of the tutorials presented on this page, you will be creating and 
 
 ## Guidelines
 
+{:.warning}
 ⚠️ This section is **very important**. By becoming a Team Member, you certify that you have read **at least** this section. If you make a mistake, while we acknowledge making mistakes is human, we will judge you with the assumption that you have read this section.
 
 Being Team Member of the Norming Project carries both great power and great responsibility with it. You are given the ability to modify every page, every word written on the website, and there is nothing between you pressing "Commit" and the website publishing your changes for the world to see.
@@ -104,6 +105,7 @@ You can now enter anything you like into the body of the file. If you don't know
 
 Once you're finished, scroll down to "Commit changes". If you are a Team Member already, this will directly add your file to the website. Otherwise, you will have create a "new branch". In this case, you can then send a pull request (on the branch page, there should be menu text telling you how to), and after being accepted into the team, your test file will be added to the `/spam/` folder. You should now be able to find it at [/docs/spam](https://github.com/pxnt/BTEN/tree/master/docs/spam) - my file, for example, is now [here](https://github.com/pxnt/BTEN/blob/master/docs/spam/Pxnt-11052020.md).
 
+{:.warning}
 ⚠️ You have just been shown how to create a test file. Please only create random test files in `/spam/` - not anywhere else. This is considered [griefing](#section-4-griefing) and will cause you to receive a warning, and a removal from the project if done repeatedly.
 
 ***
