@@ -31,23 +31,7 @@ Si estás interesado, puedes unirte a nuestro [Servidor de Discord](https://disc
 
 El equipo detrás de *Build The Earth: Norming Project* tiene estos miembros actualmente:
 
-### Core Team
-
-px#3670 (EN, DE)    
-k44du2#8049 (EN, DE)    
-𝔇'𝔞𝔪𝔡𝔯𝔢 𝔗𝔬𝔪𝔞𝔱𝔬#0768 (EN, DE)    
-
-### Miembros
-
-CADO#5826 (EN, DE)    
-cAtte_#4289 (EN, ES)    
-Welan#0373 (EN, FR)      
-Gomba03#1231 (EN, FR)
-RubenVerg#7021 (EN, IT)  
-Danuer#5139 (EN, IT)    
-Pinguino82#0356 (EN, IT)  
-Nudelsuppe_42_#3571 (EN, DE)    
-Tito_zz#3452 (EN, DE, ES)
+{% include Members.html %}
 
 ***
 
