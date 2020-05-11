@@ -28,7 +28,6 @@ In the course of the tutorials presented on this page, you will be creating and 
 * [How do I join the project?](#how-to-join)
 * [How do I translate a page?](#how-to-translate)
 * [How do I add new Norms?](#adding-new-norms)
-* [bla]()
 
 ***
 
