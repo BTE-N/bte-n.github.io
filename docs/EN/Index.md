@@ -21,7 +21,7 @@ N6. [Other](#n6-other)
 ### N2.1: Streets
 [N2.1.1: Rubbish container with wheels (for households and companies)](/BTEN/EN/N2/1/1)  
 ### N2.2: Railways
-[N2.2.1: Binding Railway norms by ECFRS](/BTEN/EN/N2/2/1)   
+[N2.2.1: Binding Railway norms by ECFR](/BTEN/EN/N2/2/1)   
 [N2.2.2: Railway](/BTEN/EN/N2/2/2)    
 [N2.2.3: Highspeed-Railway](/BTEN/EN/N2/2/3)
 ### N2.3: Traffic signs
