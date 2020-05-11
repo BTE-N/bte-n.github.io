@@ -13,6 +13,19 @@
     <!-- Google Analytics, Language Picker, Dropdown Click -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-165741526-1"></script>
     <script>
+
+        function handleHash() {
+            const hash = decodeURIComponent(location.hash).slice(1)
+            location.hash = ""
+            /* const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6")
+            for (const heading of headings)
+                if (heading.id === hash) */
+            const heading = document.getElementById(hash)
+            if (heading) heading.scrollIntoView({ behavior: "smooth" })
+        }
+        if (location.hash) handleHash()
+        window.onhashchange = handleHash
+
         window.dataLayer = window.dataLayer || [];
         function gtag() {
             dataLayer.push(arguments);
