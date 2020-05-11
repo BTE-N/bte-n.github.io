@@ -1,5 +1,5 @@
 ---
-permalink: /documentation.html
+permalink: /Documentation.html
 ---
 
 # Welcome to our Documentation page!
