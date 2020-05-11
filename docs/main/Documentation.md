@@ -235,9 +235,23 @@ Then, search for the file. You can navigate the system by first clicking on your
 7. Once finished, scroll all the way down and press the green button called "Commit new file".
 8. If you realized you made a mistake, navigate to your translated file, and press the pen icon on the top right to edit the file, and commit in the end.
 
+***
 
+## Adding new norms
+
+{:.warning}
+⚠️ Please talk to the Core Team before adding a norm.
+1. Press "Create new file" in https://github.com/pxnt/BTEN/tree/master/docs - this leads you to https://github.com/pxnt/BTEN/new/master/docs    
+I recommend to copy an existing norm file in your language to follow the layout instructions easier.    
+When naming the norm, first enter the norm ID in this format: `[language, ex. EN]/[norm-topic, ex. N3]/[subnumber(s), ex. 2]/[last number, ex. 1].md`, so an example would be `EN/N3/2/1.md`
+2. Create your Norm.
+3. Once finished, scroll all the way down and press the green button called "Commit new file".
+4. Edit the Index page in your language by pressing the "pen" icon on the top right and add your Norm. Use neighboring Norms to know how to format yours. **Do not skip this step, or your norm will not be accessible for users.**
+5. Paste your Norm URL plus a short text describing it (or a title) into `#new-norm` to alert translators and team members of your addition.
 
 ***
+
+*This page is subject to change and will always reflect the current tutorials and more. Please come back frequently to make sure you're not missing anything.*
 
 {:.warning}
 ⚠️ Editing this page is considered griefing.
