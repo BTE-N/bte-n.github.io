@@ -1,2 +1,2 @@
 # [Build The Earth: Norming Project](https://pxnt.github.io/BTEN/)
-Click the link to visit the wiki.
+Click the link above to visit the website.
