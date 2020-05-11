@@ -114,9 +114,36 @@ Once you're finished, scroll down to "Commit changes". If you are a Team Member 
 
 ## Using Markdown
 
+### Section 1: Introduction
+
 Markdown is the language we use to format every page. Thanks to a software called Jekyll, this markdown is then converted into html (the language websites are displayed with) and sent straight to our website. The reason we use markdown is because of its simplicity. Without knowing, you might have used it before, for example on Discord, Reddit, or even messengers like WhatsApp or Telegram.
 
 Markdown allows us to make text **bold**, but much more importantly, allows us to embed images, add links, add headers and subheaders, and generally making the website many times more appealing than a simple wall of text. Ironically, this is still quite a wall of text, so I do apologize - and at the same time thank you for taking your time in reading it.
+
+### Section 2: Basic Markdown
+
+### Section 3: Links and Images
+
+### Section 4: Jekyll Additions
+
+Additionally to the usual markdown formatting, the website has some special tricks up its sleeve. For example, you can create an alert or info-box in seconds, by adding the specific tags.
+
+{:.warning}
+⚠️ To add a warning box to your text, use the following syntax.
+
+```markdown
+{:.warning}
+⚠️ This is a warning.```
+
+{:.info}
+To add an info box to your text, mostly used to inform readers of examples, use the following syntax.
+
+```markdown
+{:.info}
+[This Norm contains examples.](#examples)```
+
+You can also add entire website content using Jekyll, however this is considered advanced and most likely, you won't ever need it. If you do want to learn about it, or need it, just contact me (Pxnt)!
+
 
 {:.warning}
 ⚠️ Editing this page is considered griefing.
