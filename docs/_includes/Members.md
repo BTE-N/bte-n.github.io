@@ -1,3 +1,7 @@
+---
+permalink: Members.html
+---
+
 ### Core Team
 px#3670 (EN, DE)    
 k44du2#8049 (EN, DE)    
