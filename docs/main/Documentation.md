@@ -87,6 +87,8 @@ Before you can work on anything on GitHub, you'll need an account. If you don't 
 
 ## Navigating GitHub
 
+### Section 1: Navigation
+
 There is a slight learning curve involved with moving around on GitHub, so here's some key things you might want to know about using the site. Just follow this tutorial along, I recommend that you open the pages as they are talked about so you can see what I'm talking about.
 
 Generally speaking, projects like ours are presented on GitHub similarly to a folder with files in it. This folder, in our case, is located at [/pxnt/BTEN](https://github.com/pxnt/BTEN). Press the link and take a look! Here, you see a few files and folders already, as well as the README.md, which is in our case used to send confused people straight to the website, as this super secret behind-the-scenes business is only for you and me! Well, and a few other people.
@@ -94,6 +96,8 @@ Generally speaking, projects like ours are presented on GitHub similarly to a fo
 To move around in this file system, you simply press on the file you want to view, or the folder you want to open. Important to note here is that you must always click on the blue filename, located right next to each file icon, instead of the gray text to the right of it, which says things like *modify README* - these would instead send you to a page showing you the most recent change to a specific file, which you usually don't need.
 
 Let's together now go into the [/docs/](https://github.com/pxnt/BTEN/tree/master/docs) folder by pressing on the "docs" name, which is where the website actually lives at. There should now be a long row of folders in front of you, many of which having language codes like "EN" and "DE", others having more self-explanatory names like "main" or "icons". To go back into the parent folder (the folder which this folder is in), you can always click on the ".." which are at the top of the file list.
+
+### Section 2: Creating new files
 
 To create new files, you simply press the "Create new file" button located at the top right of any folder page. This doesn't even need to be at the folder you want to place the file in, just make sure you're not somewhere completely elsewhere, as you can only go deeper into the filesystem using the name. Go ahead, press that button now!
 
@@ -105,7 +109,13 @@ To create your file, let's give it an actual name! How about your GitHub or Disc
 
 You can now enter anything you like into the body of the file. If you don't know how to work with markdown, just keep reading after this article and you'll learn in no time! The next section will also show you how to access your websites.
 
-Once you're finished, scroll down to "Commit changes". If you are a Team Member already, this will directly add your file to the website. Otherwise, you will have create a "new branch". In this case, you can then send a pull request (on the branch page, there should be menu text telling you how to), and after being accepted into the team, your test file will be added to the `/spam/` folder. You should now be able to find it at [/docs/spam](https://github.com/pxnt/BTEN/tree/master/docs/spam) - my file, for example, is now [here](https://github.com/pxnt/BTEN/blob/master/docs/spam/Pxnt-11052020.md).
+### Section 3: Committing
+
+Once you're finished, scroll down to "Commit changes". Here, you can set a short and longer description of your changes if you like to. If you are a Team Member already, this will directly add your file to the website.
+
+Otherwise, you will have create a "new branch". In this case, you can then send a pull request (on the branch page, there should be menu text telling you how to), and after being accepted into the team, your test file will be added to the `/spam/` folder.
+
+You should now be able to find it at [/docs/spam](https://github.com/pxnt/BTEN/tree/master/docs/spam) - my file, for example, is now [here](https://github.com/pxnt/BTEN/blob/master/docs/spam/Pxnt-11052020.md).
 
 {:.warning}
 ⚠️ You have just been shown how to create a test file. Please only create random test files in `/spam/` - not anywhere else. This is considered [griefing](#section-4-griefing) and will cause you to receive a warning, and a removal from the project if done repeatedly.
