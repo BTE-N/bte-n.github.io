@@ -131,16 +131,12 @@ Additionally to the usual markdown formatting, the website has some special tric
 {:.warning}
 ⚠️ To add a warning box to your text, use the following syntax.
 
-```markdown
-{:.warning}
-⚠️ This is a warning.```
+![](https://media.discordapp.net/attachments/702537093527765083/709391568569893005/warning.png)
 
 {:.info}
 To add an info box to your text, mostly used to inform readers of examples, use the following syntax.
 
-```markdown
-{:.info}
-[This Norm contains examples.](#examples)```
+![](https://cdn.discordapp.com/attachments/702537093527765083/709391575121264650/info.png)
 
 You can also add entire website content using Jekyll, however this is considered advanced and most likely, you won't ever need it. If you do want to learn about it, or need it, just contact me (Pxnt)!
 
