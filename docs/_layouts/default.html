@@ -23,7 +23,6 @@
                 if (heading.innerText.replace(/^N/i, "").startsWith(`${hash}: `))
                     heading.scrollIntoView()
         }
-        if (location.hash) handleHash()
         window.onhashchange = handleHash
 
         window.dataLayer = window.dataLayer || [];
@@ -93,6 +92,7 @@
         }
 
         document.addEventListener("DOMContentLoaded", () => {
+            if (location.hash) handleHash()
             const currentLang = getCurrentLang()
             const indexButton = document.getElementById("index-btn")
             const aboutButton = document.getElementById("about-btn")
