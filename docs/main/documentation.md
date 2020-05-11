@@ -104,7 +104,7 @@ You can now enter anything you like into the body of the file. If you don't know
 
 Once you're finished, scroll down to "Commit changes". If you are a Team Member already, this will directly add your file to the website. Otherwise, you will have create a "new branch". In this case, you can then send a pull request (on the branch page, there should be menu text telling you how to), and after being accepted into the team, your test file will be added to the `/spam/` folder. You should now be able to find it at [/docs/spam](https://github.com/pxnt/BTEN/tree/master/docs/spam) - my file, for example, is now [here](https://github.com/pxnt/BTEN/blob/master/docs/spam/Pxnt-11052020.md).
 
-⚠️ You have just been shown how to create a test file. Please do not create random files elsewhere, but in `/spam`. This is considered [griefing](#section-4-griefing) and will cause you to receive a warning, and a removal from the project if done repeatedly.
+⚠️ You have just been shown how to create a test file. Please only create random test files in `/spam/` - not anywhere else. This is considered [griefing](#section-4-griefing) and will cause you to receive a warning, and a removal from the project if done repeatedly.
 
 ***
 
