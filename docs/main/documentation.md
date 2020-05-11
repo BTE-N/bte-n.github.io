@@ -118,3 +118,5 @@ Markdown is the language we use to format every page. Thanks to a software calle
 
 Markdown allows us to make text **bold**, but much more importantly, allows us to embed images, add links, add headers and subheaders, and generally making the website many times more appealing than a simple wall of text. Ironically, this is still quite a wall of text, so I do apologize - and at the same time thank you for taking your time in reading it.
 
+{:.warning}
+⚠️ Editing this page is considered griefing.
