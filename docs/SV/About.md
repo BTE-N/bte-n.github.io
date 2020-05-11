@@ -9,23 +9,23 @@
 "Normering Projekt" är en växande grupp personer som dedikerar sig till att skapa riktlinjer (Normer) vid arbetet av Build The Earth projektet som skapades tidigt 2020.
 Det strävar efter att försörja resuser till repeterande byggnader, såväl för personer som undrar "Hur bygger jag det här?" när man kollar på gator,järnvägar och annan infraststruktur.
 
-## Philosophy
+## Filosofi
 
-The BTEN wiki is based on total collaboration, where people from all areas and knowledge fields contribute depending on their abilities and interests.
-Everyone can work on any document if they choose to, and the project is mostly based on trust basis, although we have a team overseeing the process to ensure things are steering in the right direction.
-It is crucial to communicate frequently and to ensure that decisions are made in everyone's best interest, which sometimes require a vote.
+BTEN wiki:n är baserad på enbart sammarbete, där personer med alla intressen och kunskaper kan bidra utifrån deras kunskaper och intressen.
+Alla kan arbeta på ett dokument ifall de så väljer, och projektet är till största del baserat på förtroende hos alla parter, dock har vi också ett team som ser över arbetet och försäkrar att allt arbete styrs i rätt riktning.
+Det är viktigt att kommunicera ofta för alla parters bästa intresse, vilket ibland kräver omröstning.
 
-## Contribute
+## Bidra
 
-As we are evergrowing, we are very open to accepting new members into the team behind the Norming Project.
-Be it because you like to contribute using your own experience in worldbuilding, or have time on your hands you want to put to good use to add and update norms, or because you are interested in translating and updating the website into languages you can speak.
+Då vi fortfaramde är en växande grupp växer vi väldigt öppna till att acceptera nya medlemmar till "Norming Projektet".
+Det kan vara för att du vill bidra med hjälp av din erfarenhet av byggande, eller att du har lite extra tid på händerna och vill uppdatera eller lägga till nya normer, eller för att du är intresserad i att översätta och uppdatera hemsidan till det språken som just du talar.
 
-If you are interested, you can join the Discord Server and communicate with the members to establish your interests, and to get you ready for whichever way you are planning on contributing.
-The server is also a platform for discussion and support.
+Ifall du är intresserad, kan du gå med i vår Discord server och kommunicera med andra medlemmarna för att reda ut vad just ditt intresse är, och för att göra dig redo för vilket sätt du vill bidra till projektet med.
+Servern är också en platform för att diskutera och få hjälp.
 
 ## Medlemmar
 
-The Build The Earth: Norming Project Team currently has these members:
+Build The Earth: Normering Projekt Teamet har just nu dessa medlemmarna:
 
 ## Huvudmedlemmar
 
@@ -46,4 +46,4 @@ Tito_zz#3452 (EN, DE, ES)
 
 ***
 
-Join our [Discord Server](https://discord.gg/eXzrZSx)
+Gå med i vår [Discord Server](https://discord.gg/eXzrZSx)
