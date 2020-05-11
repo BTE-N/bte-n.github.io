@@ -16,7 +16,8 @@
 
         function handleHash() {
             const hash = decodeURIComponent(location.hash).slice(1)
-            location.hash = ""
+            window.scrollTo(0, 0)
+            // location.hash = ""
             /* const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6")
             for (const heading of headings)
                 if (heading.id === hash) */
