@@ -90,6 +90,7 @@ There is a slight learning curve involved with moving around on GitHub, so here'
 
 ### Section 1: Navigation
 
+![The GitHub main page](https://media.discordapp.net/attachments/702537093527765083/709705840189243412/bten_main_file_page.png)
 
 Generally speaking, projects like ours are presented on GitHub similarly to a folder with files in it. This folder, in our case, is located at [/pxnt/BTEN](https://github.com/pxnt/BTEN). Press the link and take a look! Here, you see a few files and folders already, as well as the README.md, which is in our case used to send confused people straight to the website, as this super secret behind-the-scenes business is only for you and me! Well, and a few other people.
 
