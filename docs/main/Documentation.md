@@ -224,15 +224,23 @@ To become a translator, simply follow the [joining BTEN](#how-to-join) Guide, an
 
 Once you're member, you can start working on your language like so:
 
-First, ocate the page you want to translate, for example [/BTEN/EN/N2/1/1](/BTEN/EN/N2/1/1)    
+### Section 1: What to translate
+
+First, ocate the page you want to translate, for example [/BTEN/EN/N2/1/1](/BTEN/EN/N2/1/1).
+
 You can start searching for untranslated pages by comparing the folder of your language with the English one, or by checking the index for links that don't function in your language.
+
+{:.warning}
+Some pages don't need translation or only ask for limited amounts of translations. Those pages usually mention this on the page itself.
+
+### Section 2: Preparing the translation
 
 Find the corresponding file on the github directory. For this, you need to go to [the main GitHub directory](https://github.com/pxnt/BTEN/blob/master/docs/)    
 Then, search for the file. You can navigate the system by first clicking on your source language (usually English, so EN), and then follow the folders the same way the norm ID is set up (`N2.1.1`). In this case, you will find  [/EN/N2/1/1.md](https://github.com/pxnt/BTEN/blob/master/docs/EN/N2/1/1.md)
 
 Copy the site's content by clicking on the "Raw" button on the right, next to "Blame" and "History". This would lead you to [raw.githubusercontent.com](https://raw.githubusercontent.com/pxnt/BTEN/master/docs/EN/N2/1/1.md) - just press CTRL+A (Select All) and then CTRL+C (Copy) to get the pages's content.
 
-Press "Create new file" in the folder where you’d find the file - you might need to create folders along your way (your language ID -> N# -> # | read [the tutorial for creating files](#section-2-creating-new-files) for more information) - there you will create a file with the last ID digit as the name (3.md for example), for the example of french, this would be https://github.com/pxnt/BTEN/tree/master/docs/FR/N2/1/ - this would lead you to https://github.com/pxnt/BTEN/new/master/docs/FR/N2/1/
+Press "Create new file" in the folder where you’d find the file - you might need to create folders along your way (your language ID -> N# -> #. Read [the tutorial for creating files](#section-2-creating-new-files) for more information) - there you will create a file with the last ID digit as the name (3.md for example), for the example of french, this would be https://github.com/pxnt/BTEN/tree/master/docs/FR/N2/1/ - this would lead you to https://github.com/pxnt/BTEN/new/master/docs/FR/N2/1/
 
 Paste your clipboard (CTRL+V) into the large field. The name will be the Norm-ID (here "3") **plus the file extension (always ".md")**
 
