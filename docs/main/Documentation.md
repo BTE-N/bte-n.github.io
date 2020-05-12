@@ -119,13 +119,29 @@ Let's try creating a file. You should still be looking at the file creation page
 
 To create your file, let's give it an actual name! How about your GitHub or Discord username and the current date? For me, this would be `Pxnt-11052020`. Enter your version of this, and don't forget to add the file extension! As our website generator reads *Markdown* files, we need to make sure all of our files are markdown. Make yours one of the team by adding `.md` to the end!
 
+![](https://media.discordapp.net/attachments/702537093527765083/709708291185311744/spam3.png)
+
 You can now enter anything you like into the body of the file. If you don't know how to work with markdown, just keep reading after this article and you'll learn in no time! The next section will also show you how to access your websites.
 
 ### Section 3: Committing
 
 Once you're finished, scroll down to "Commit changes". Here, you can set a short and longer description of your changes if you like to. If you are a Team Member already, this will directly add your file to the website.
 
-Otherwise, you will have create a "new branch". In this case, you can then send a pull request (on the branch page, there should be menu text telling you how to), and after being accepted into the team, your test file will be added to the `/spam/` folder.
+![](https://media.discordapp.net/attachments/702537093527765083/709708535436673094/commit_to_master.png)
+
+### Section 3b: Pull Requests
+
+If you aren't a member of the BTEN Team yet, you will have create a "new branch".
+
+![](https://media.discordapp.net/attachments/702537093527765083/709708748439945246/new_branch.png)
+
+In this case, you can then send a pull request from the website you will be shown after pressing "Propose new file".
+
+![](https://media.discordapp.net/attachments/702537093527765083/709709276624715845/new_pr.png)
+
+After pressing "Create pull request", members from the Team can review and accept your pull request. After someone accepted it, you will be able to see your file in the `/spam/` folder.
+
+### Section 4: Viewing your file
 
 You should now be able to find it at [/docs/spam](https://github.com/pxnt/BTEN/tree/master/docs/spam) - my file, for example, is now [here](https://github.com/pxnt/BTEN/blob/master/docs/spam/Pxnt-11052020.md).
 
