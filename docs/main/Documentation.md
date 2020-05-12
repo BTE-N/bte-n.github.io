@@ -14,7 +14,7 @@ On this page, I will try my  best to guide you to becoming a contributor of the 
 In the course of the tutorials presented on this page, you will be creating and editing your own page, which the project lead will take as a welcomed symbol of you taking the time to learn more about GitHub and our project!
 
 {:.warning}
-⚠️ As being able to speak English is generally required as a team member, this page is only available in English.
+As being able to speak English is generally required as a team member, this page is only available in English.
 
 ***
 
@@ -120,7 +120,7 @@ You should now be able to find it at [/docs/spam](https://github.com/pxnt/BTEN/t
 [Read more about GitHub](https://guides.github.com/activities/hello-world/)
 
 {:.warning}
-⚠️ You have just been shown how to create a test file. Please only create random test files in `/spam/` - not anywhere else. This is considered [griefing](#section-4-griefing) and will cause you to receive a warning, and a removal from the project if done repeatedly.
+You have just been shown how to create a test file. Please only create random test files in `/spam/` - not anywhere else. This is considered [griefing](#section-4-griefing) and will cause you to receive a warning, and a removal from the project if done repeatedly.
 
 ***
 
@@ -181,9 +181,9 @@ to add an image, add a `!` in front of your image link:
 Additionally to the usual markdown formatting, the website has some special tricks up its sleeve. For example, you can create an alert or info-box in seconds, by adding the specific tags.
 
 {:.warning}
-⚠️ To add a warning box to your text, use the following syntax.
+To add a warning box to your text, use the following syntax.
 
-![](https://media.discordapp.net/attachments/702537093527765083/709391568569893005/warning.png)
+![](https://media.discordapp.net/attachments/702537093527765083/709688982182821928/new_warning.png)
 
 {:.info}
 To add an info box to your text, mostly used to inform readers of examples, use the following syntax.
@@ -239,7 +239,7 @@ Then, search for the file. You can navigate the system by first clicking on your
 ## Adding new norms
 
 {:.warning}
-⚠️ Please talk to the Core Team before adding a norm.
+Please talk to the Core Team before adding a norm.
 1. Press "Create new file" in https://github.com/pxnt/BTEN/tree/master/docs - this leads you to https://github.com/pxnt/BTEN/new/master/docs    
 I recommend to copy an existing norm file in your language to follow the layout instructions easier.    
 When naming the norm, first enter the norm ID in this format: `[language, ex. EN]/[norm-topic, ex. N3]/[subnumber(s), ex. 2]/[last number, ex. 1].md`, so an example would be `EN/N3/2/1.md`
@@ -253,4 +253,4 @@ When naming the norm, first enter the norm ID in this format: `[language, ex. EN
 *This page is subject to change and will always reflect the current tutorials and more. Please come back frequently to make sure you're not missing anything.*
 
 {:.warning}
-⚠️ Editing this page is considered griefing.
+Editing this page is considered griefing.
