@@ -66,7 +66,7 @@ Sometimes, bad mistakes (such as accidentally deleting an entire folder includin
 
 We react to griefing on a term-by-term basis. If it is evident that someone seeks to destroy the website or an individual page, we are likely to remove said person access to the GitHub, and will then assess the situation.
 
-Note that everything on GitHub is saved including its history, so it is easy to revert a file to a previous state, making griefing a waste of your, and our, time.
+Note that everything on GitHub is saved including its history and authors, so it is easy to revert a file to a previous state, making griefing a waste of everyone's time.
 
 ***
 
@@ -90,9 +90,12 @@ There is a slight learning curve involved with moving around on GitHub, so here'
 
 ### Section 1: Navigation
 
+
 Generally speaking, projects like ours are presented on GitHub similarly to a folder with files in it. This folder, in our case, is located at [/pxnt/BTEN](https://github.com/pxnt/BTEN). Press the link and take a look! Here, you see a few files and folders already, as well as the README.md, which is in our case used to send confused people straight to the website, as this super secret behind-the-scenes business is only for you and me! Well, and a few other people.
 
 To move around in this file system, you simply press on the file you want to view, or the folder you want to open. Important to note here is that you must always click on the blue filename, located right next to each file icon, instead of the gray text to the right of it, which says things like *modify README* - these would instead send you to a page showing you the most recent change to a specific file, which you usually don't need.
+
+![The GitHub Docs Page](https://media.discordapp.net/attachments/702537093527765083/709704069614272512/main_docs_menu.png)
 
 Let's together now go into the [/docs/](https://github.com/pxnt/BTEN/tree/master/docs) folder by pressing on the "docs" name, which is where the website actually lives at. There should now be a long row of folders in front of you, many of which having language codes like "EN" and "DE", others having more self-explanatory names like "main" or "icons". To go back into the parent folder (the folder which this folder is in), you can always click on the ".." which are at the top of the file list.
 
@@ -202,12 +205,15 @@ You can also add entire website content using Jekyll, however this is considered
 
 If you decided that you want to contribute to BTEN in one way or another, there are a few steps you need to take to become a member!
 
-1. Read the documentation    
-This one should be obvious, and you probably have done it already - read this page, at least the [guidelines](#guidelines), but preferably everything.
-2. [Create your GitHub account](#creating-an-account) it you don't have one already.
-3. Contact the Core Team.    
+Step 1: *Read the documentation*    
+This one should be obvious (but is very important!), and you probably have done it already - read this page, at least the [guidelines](#guidelines), but preferably everything.
+
+Step 2: [Create your GitHub account](#creating-an-account) it you don't have one already.
+
+Step 3: [Contact the Core Team via Discord](http://discord.gg/eXzrZSx).    
 Let us know that you want to be part, tell us how you want to contribute, and we'll sort the rest out for you.
-4. Contribute!    
+
+Step 4: Contribute!    
 Theoretically, there should be nothing in your way from translating, adding and editing on the Norm website.
 
 Make sure to stay up-to-date with our discord server, as there you'll get the latest news and discussions.
@@ -226,7 +232,7 @@ Once you're member, you can start working on your language like so:
 
 ### Section 1: What to translate
 
-First, ocate the page you want to translate, for example [/BTEN/EN/N2/1/1](/BTEN/EN/N2/1/1).
+First, locate the page you want to translate, for example [/BTEN/EN/N2/1/1](/BTEN/EN/N2/1/1).
 
 You can start searching for untranslated pages by comparing the folder of your language with the English one, or by checking the index for links that don't function in your language.
 
