@@ -27,22 +27,9 @@ Servern är också en platform för att diskutera och få hjälp.
 
 Build The Earth: Normering Projekt Teamet har just nu dessa medlemmarna:
 
-## Huvudmedlemmar
+{% include Members.md %}
 
-px#3670 (EN, DE)
-k44du2#8049 (EN, DE)
-𝔇'𝔞𝔪𝔡𝔯𝔢 𝔗𝔬𝔪𝔞𝔱𝔬#0768 (EN, DE)
-
-## Medlemmar
-
-CADO#5826 (EN, DE)
-cAtte_#4289 (EN, ES)
-Welan#0373 (EN, FR)
-Gomba03#1231 (EN, FR) RubenVerg#7021 (EN, IT)
-Danuer#5139 (EN, IT)
-Pinguino82#0356 (EN, IT)
-Nudelsuppe_42_#3571 (EN, DE)
-Tito_zz#3452 (EN, DE, ES)
+*This list is updated every now and then by us. If your name is missing, let us know and we will update the list.*
 
 ***
 

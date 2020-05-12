@@ -24,7 +24,9 @@ Wenn du interessiert bist, kannst du dich dem [Discord Server](https://discord.g
 
 Das Build The Earth: Norming Project Team besteht derzeit aus den folgenden Mitgliedern:
 
-{% include Members.html %}
+{% include Members.md %}
+
+*Diese Liste wird gelegentlich von uns aktualisiert. Lass es uns wissen falls dein Name fehlt und wir werden die Liste aktualisieren.*
 
 ***
 

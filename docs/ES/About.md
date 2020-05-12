@@ -31,7 +31,9 @@ Si estás interesado, puedes unirte a nuestro [Servidor de Discord](https://disc
 
 El equipo detrás de *Build The Earth: Norming Project* tiene estos miembros actualmente:
 
-{% include Members.html %}
+{% include Members.md %}
+
+*Esta lista está actualizada por nosotros cada tanto. Si falta tu nombre, háznoslo saber y la actualizaremos.*
 
 ***
 

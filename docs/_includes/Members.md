@@ -21,5 +21,3 @@ Karl IV Oskar#9205 (EN, SV)
 Morpheus#3866 (EN, IT)       
 ydentt#8103 (EN, ES)    
 spl1ce#5225 (EN, PT)    
-
-*This list is updated every now and then by us. If your name is missing, let us know and we will update the list.*

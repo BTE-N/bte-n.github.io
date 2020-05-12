@@ -28,7 +28,9 @@ The server is also a platform for discussion and support.
 
 The Build The Earth: Norming Project Team currently has these members:
 
-{% include Members.html %}
+{% include Members.md %}
+
+*This list is updated every now and then by us. If your name is missing, let us know and we will update the list.*
 
 ***
 
