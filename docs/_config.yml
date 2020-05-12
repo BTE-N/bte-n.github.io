@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
 
 # examples link
-examples_DE: "<p class="info"><a href="#beispiele">Diese Norm enthält Beispielbilder.</a></p>"
-examples_EN: "<p class="info"><a href="#examples">This Norm contains examples.</a></p>"
-examples_ES: "<p class="info"><a href="#ejemplos">Este estándar contiene ejemplos.</a></p>"
-examples_FR: "<p class="info"><a href="#exemples">Cette norme est accompagnée de photos.</a></p>"
-examples_IT: "<p class="info"><a href="#esempi">In questa norma ci sono esempi.</a></p>"
-examples_SV: "<p class="info"><a href="#??????">!!! Replace this !!!</a></p>"
+examples_DE: '<p class="info"><a href="#beispiele">Diese Norm enthält Beispielbilder.</a></p>'
+examples_EN: '<p class="info"><a href="#examples">This Norm contains examples.</a></p>'
+examples_ES: '<p class="info"><a href="#ejemplos">Este estándar contiene ejemplos.</a></p>'
+examples_FR: '<p class="info"><a href="#exemples">Cette norme est accompagnée de photos.</a></p>'
+examples_IT: '<p class="info"><a href="#esempi">In questa norma ci sono esempi.</a></p>'
+examples_SV: '<p class="info"><a href="#??????">!!! Replace this !!!</a></p>'
