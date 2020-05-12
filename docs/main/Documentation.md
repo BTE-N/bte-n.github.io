@@ -34,7 +34,7 @@ As being able to speak English is generally required as a team member, this page
 ## Guidelines
 
 {:.warning}
-⚠️ This section is **very important**. By becoming a Team Member, you certify that you have read **at least** this section. If you make a mistake, while we acknowledge making mistakes is human, we will judge you with the assumption that you have read this section.
+This section is **very important**. By becoming a Team Member, you certify that you have read **at least** this section. If you make a mistake, while we acknowledge making mistakes is human, we will judge you with the assumption that you have read this section.
 
 Being Team Member of the Norming Project carries both great power and great responsibility with it. You are given the ability to modify every page, every word written on the website, and there is nothing between you pressing "Commit" and the website publishing your changes for the world to see.
 This means, it is your responsibility to ensure that what you add to or remove from the page is within the best interests of everyone involved, that means your fellow members, the project lead as well as the broader Build The Earth community as a whole, which uses our website as a resource and guideline.
