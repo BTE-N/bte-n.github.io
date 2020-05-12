@@ -37,6 +37,4 @@ El equipo detrás de *Build The Earth: Norming Project* tiene estos miembros act
 
 ***
 
-{{ site.theme }} /// {{ site.test }} /// {{ theme }} /// {{ test }}
-
 Únete a nuestro [Servidor de Discord](https://discord.gg/eXzrZSx).
