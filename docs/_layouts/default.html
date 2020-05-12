@@ -15,6 +15,7 @@
     <script>
 
         function handleHash() {
+            if (!location.hash) return
             const hash = decodeURIComponent(location.hash).slice(1).replace(/^N/i, "")
             const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6")
             if (Array.from(headings).map(el => el.id).includes(hash))
@@ -24,6 +25,7 @@
                     heading.scrollIntoView()
         }
         window.onhashchange = handleHash
+        window.onload = handleHash
 
         window.dataLayer = window.dataLayer || [];
         function gtag() {
@@ -92,7 +94,6 @@
         }
 
         document.addEventListener("DOMContentLoaded", () => {
-            if (location.hash) handleHash()
             const currentLang = getCurrentLang()
             const indexButton = document.getElementById("index-btn")
             const aboutButton = document.getElementById("about-btn")
