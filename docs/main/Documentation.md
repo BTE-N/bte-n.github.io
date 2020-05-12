@@ -214,12 +214,30 @@ Additionally to the usual markdown formatting, the website has some special tric
 {:.warning}
 To add a warning box to your text, use the following syntax.
 
-![](https://media.discordapp.net/attachments/702537093527765083/709688982182821928/new_warning.png)
+```
+​{​:.warning}
+To add a warning box to your text, use the following syntax.
+```
 
 {:.info}
-To add an info box to your text, mostly used to inform readers of examples, use the following syntax.
+To add an info box to your text, use the following syntax.
 
-![](https://cdn.discordapp.com/attachments/702537093527765083/709391575121264650/info.png)
+```
+​{​:.info}
+To add an info box to your text, use the following syntax.
+```
+
+BTEN itself also has some templates which help when writing norms, for example:
+
+```
+​{​{ site.examples_EN }}
+```
+
+Would create the following box:
+
+{{ site.examples_EN }}
+
+Where you'd replace "_EN" with the norm language code.
 
 You can also add entire website content using Jekyll, however this is considered advanced and most likely, you won't ever need it. If you do want to learn about it, or need it, just contact me (Pxnt)!
 
