@@ -1,10 +1,10 @@
 # Index
-N1. [Om Normering](#n1-om-normering)  
-N2. [Infrastruktur](#n2-infrastruktur)  
-N3. [Fordon](#n3-fordon)  
-N4. [Logotyper, Flaggor och Banners](#n4-logotyper-flaggor-och-banners)  
-N5. [Dekorationer](#n5-dekorationer)  
-N6. [Övrigt](#n6-övright)  
+N1. [Om Normering](#n1)  
+N2. [Infrastruktur](#n2)  
+N3. [Fordon](#n3)  
+N4. [Logotyper, Flaggor och Banners](#n4)  
+N5. [Dekorationer](#n5)  
+N6. [Övrigt](#n6)  
 
 ***
 

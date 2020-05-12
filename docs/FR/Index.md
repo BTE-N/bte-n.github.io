@@ -1,11 +1,11 @@
 # Index
 
-N1. [Information sur les normes](#n1-information-sur-les-normes)  
-N2. [Infrastructure](#n2-infrastructure)  
-N3. [Véhicules](#n3-véhicules)  
-N4. [Logos, Drapeau et Banières](#n4-logos-drapeaux-et-banières)  
-N5. [Décorations](#n5-décorations)  
-N6. [Autres](#n6-autres)
+N1. [Information sur les normes](#n1)  
+N2. [Infrastructure](#n2)  
+N3. [Véhicules](#n3)  
+N4. [Logos, Drapeau et Banières](#n4)  
+N5. [Décorations](#n5)  
+N6. [Autres](#n6)
 
 ***
 

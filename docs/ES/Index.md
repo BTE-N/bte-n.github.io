@@ -1,11 +1,11 @@
 # Índice
 
-N1. [Acerca de Estandarizar](#n1-acerca-de-estandarizar)   
-N2. [Infraestructura](#n2-infraestructura)   
-N3. [Vehículos](#n3-vehículos)   
-N4. [Logotipos, Banderas y Estandartes](#n4-logotipos-banderas-y-estandartes)   
-N5. [Decoraciones](#n5-decoraciones)   
-N6. [Otros](#n6-otros)
+N1. [Acerca de Estandarizar](#n1)   
+N2. [Infraestructura](#n2)   
+N3. [Vehículos](#n3)   
+N4. [Logotipos, Banderas y Estandartes](#n4)   
+N5. [Decoraciones](#n5)   
+N6. [Otros](#n6)
 
 ***
 
