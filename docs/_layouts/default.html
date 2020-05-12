@@ -1,3 +1,6 @@
+---
+test: dont mind me
+---
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
@@ -72,7 +75,7 @@
             ES: {
                 index: "Índice",
                 about: "Acerca de",
-                footer: "BTEN está mantenido por el [Equipo BTEN]."
+                footer: "BTEN está mantenido por el [Equipo BTEN]. {{ page.test }} / {{ test }}"
             },
             FR: {
                 index: "Index",
@@ -237,7 +240,7 @@
         .not-heading {
             line-height: 10px;
         }
-        
+
         .warning {
             -moz-border-radius: 6px;
             -webkit-border-radius: 6px;
