@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+# examples link
+examples_DE: "{:.info} [Diese Norm enthält Beispielbilder.](#beispiele)"
+examples_EN: "{:.info} [This Norm contains examples.](#examples)"
+examples_ES: "{:.info} [Este estándar contiene ejemplos.](#ejemplos)"
+examples_FR: "{:.info} [Cette norme est accompagnée de photos.](#exemples)"
+examples_IT: "{:.info} [In questa norma ci sono esempi.](#esempi)"
+examples_SV: "{:.info} *[?](#?)*"
