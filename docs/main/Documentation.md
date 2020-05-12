@@ -222,17 +222,25 @@ If this is you, we most likely need you! Our website is currently already being 
 
 To become a translator, simply follow the [joining BTEN](#how-to-join) Guide, and let us know of your spoken languages.
 
-Once you're member, you can start working on your language:
+Once you're member, you can start working on your language like so:
 
-1. Locate the page you want to translate, for example https://pxnt.github.io/BTEN/EN/N2/1/3
-2. Find the corresponding file on the github directory. For this, you need to go to https://github.com/pxnt/BTEN/blob/master/docs/    
-Then, search for the file. You can navigate the system by first clicking on your source language (likely English, so EN), and then follow the folders the same way the norm ID is set up (`N2.1.3`). In this case, you will find  https://github.com/pxnt/BTEN/blob/master/docs/EN/N2/1/3.md
-3. Copy the site's content by clicking on the "Raw" button on the right, next to "Blame" and "History". This would lead you to https://raw.githubusercontent.com/pxnt/BTEN/master/docs/EN/N2/1/3.md - just press CTRL+A (Select All) and then CTRL+C (Copy).
-4. Press "Create new file" in the folder where you’d find the file - you might need to create folders along your way (your language ID -> N# -> #) - there you will create a file with the last ID digit as the name (3.md for example), for the example of french, this would be https://github.com/pxnt/BTEN/tree/master/docs/FR/N2/1/ - this would lead you to https://github.com/pxnt/BTEN/new/master/docs/FR/N2/1/
-5. Paste your clipboard (CTRL+V) into the large field. The name will be the Norm-ID (here "3") **plus the file extension (always “.md”)**
-6. You can now edit and translate the large field as you are used to. Make use of the "Preview" button to ensure you're doing well.
-7. Once finished, scroll all the way down and press the green button called "Commit new file".
-8. If you realized you made a mistake, navigate to your translated file, and press the pen icon on the top right to edit the file, and commit in the end.
+First, ocate the page you want to translate, for example [/BTEN/EN/N2/1/1](/BTEN/EN/N2/1/1)    
+You can start searching for untranslated pages by comparing the folder of your language with the English one, or by checking the index for links that don't function in your language.
+
+Find the corresponding file on the github directory. For this, you need to go to [the main GitHub directory](https://github.com/pxnt/BTEN/blob/master/docs/)    
+Then, search for the file. You can navigate the system by first clicking on your source language (usually English, so EN), and then follow the folders the same way the norm ID is set up (`N2.1.1`). In this case, you will find  [/EN/N2/1/1.md](https://github.com/pxnt/BTEN/blob/master/docs/EN/N2/1/1.md)
+
+Copy the site's content by clicking on the "Raw" button on the right, next to "Blame" and "History". This would lead you to [raw.githubusercontent.com](https://raw.githubusercontent.com/pxnt/BTEN/master/docs/EN/N2/1/1.md) - just press CTRL+A (Select All) and then CTRL+C (Copy) to get the pages's content.
+
+Press "Create new file" in the folder where you’d find the file - you might need to create folders along your way (your language ID -> N# -> # | read [the tutorial for creating files](#section-2-creating-new-files) for more information) - there you will create a file with the last ID digit as the name (3.md for example), for the example of french, this would be https://github.com/pxnt/BTEN/tree/master/docs/FR/N2/1/ - this would lead you to https://github.com/pxnt/BTEN/new/master/docs/FR/N2/1/
+
+Paste your clipboard (CTRL+V) into the large field. The name will be the Norm-ID (here "3") **plus the file extension (always ".md")**
+
+You can now edit and translate the large field as you are used to. Make use of the "Preview" button to ensure you're doing well.
+
+Once finished, scroll all the way down and press the green button called "Commit new file".
+
+If you realized you made a mistake, navigate to your translated file, and press the pen icon on the top right to edit the file, and commit in the end.
 
 ***
 
