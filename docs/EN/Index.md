@@ -1,6 +1,6 @@
 # Index
 
-N1. [About Norming](#n1-about-norming)  
+N1. [About Norming](#n1)  
 N2. [Infrastructure](#n2-infrastructure)  
 N3. [Vehicles](#n3-vehicles)  
 N4. [Logos, Flags and Banner](#n4-logos-flags-and-banner)  
