@@ -36,7 +36,7 @@ N6. [Overige](#n6)
 ### N3.3: Treinen
 [N3.3.1: ICE 3](/BTEN/EN/N3/3/1)  
 [N3.3.2: DB Dubbeldekker trein (Twindexx)](/BTEN/EN/N3/3/2)  
-[N3.3.3: Elektrische locomotief (Series 101)](/BTEN/EN/N3/3/3)    
+[N3.3.3: Elektrische locomotief (Serie 101)](/BTEN/EN/N3/3/3)    
 [N3.3.4: IC2 ](/BTEN/EN/N3/3/4)
 ### N3.4: Vliegtuigen
 ### N3.5: Watervoertuigen
@@ -44,26 +44,26 @@ N6. [Overige](#n6)
 
 ***
 
-## N4: Logos, Flags and Banner
-### N4.1: Official Flags and Banner
-[N4.1.1: Flags of German States](/BTEN/EN/N4/1/1)  
-[N4.1.2: Countryflags](/BTEN/EN/N4/1/2)
-### N4.2: Logos
-[N4.2.1: Company logos](/BTEN/EN/N4/2/1)
+## N4: Logo's, Vlaggen and Banners
+### N4.1: Officiële Vlaggen en Banners
+[N4.1.1: Vlaggen van de Duitse Staten](/BTEN/EN/N4/1/1)  
+[N4.1.2: Landsvlaggen](/BTEN/EN/N4/1/2)
+### N4.2: Logo's
+[N4.2.1: Bedrijfslogo's](/BTEN/EN/N4/2/1)
 
 ***
 
-## N5: Decorations
-### N5.1: Stores
-[N5.1.1: Shopping venture](/BTEN/EN/N5/1/1)
-### N5.2: Outside decorations
+## N5: Decoraties
+### N5.1: Winkels
+[N5.1.1: Winkelbedrijven](/BTEN/EN/N5/1/1)
+### N5.2: Buitendecoraties
 
 ***
 
-## N6: Other
-### N6.1: Glossary
-[N6.1.1: Heads](/BTEN/EN/N6/1/1)
-### N6.2: Other Assets
-[N6.2.1: Letters](/BTEN/EN/N6/2/1)
+## N6: Overige
+### N6.1: Woordenlijst
+[N6.1.1: Hoofden](/BTEN/EN/N6/1/1)
+### N6.2: Overige Middelen
+[N6.2.1: Brieven](/BTEN/EN/N6/2/1)
 
 ***
