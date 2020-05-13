@@ -20,27 +20,27 @@ N6. [Overige](#n6)
 ## N2: Infrastructuur
 ### N2.1: Straten
 [N2.1.1: Afvalcontainers met wielen (voor huishoudens en bedrijven)](/BTEN/EN/N2/1/1)  
-### N2.2: Spoorweg
+### N2.2: Spoorwegen
 [N2.2.1: Bindende Spoorweg normen bij ECFR](/BTEN/EN/N2/2/1)   
 [N2.2.2: Spoorweg](/BTEN/EN/N2/2/2)    
 [N2.2.3: Hogesnelheid-Spoorweg](/BTEN/EN/N2/2/3)
 ### N2.3: Verkeersborden
-[N2.3.1: Bushalte Bord](/BTEN/EN/N2/3/1)  
-[N2.3.2: Verkeerslichten vlag](/BTEN/EN/N2/3/2)
+[N2.3.1: Bushalte Borden](/BTEN/EN/N2/3/1)  
+[N2.3.2: Verkeerslicht vlaggen](/BTEN/EN/N2/3/2)
 
 ***
 
-## N3: Vehicles
-### N3.1: Cars
-### N3.2: Trucks
-### N3.3: Trains
+## N3: Voertuigen
+### N3.1: Auto's
+### N3.2: Vrachtwagens
+### N3.3: Treinen
 [N3.3.1: ICE 3](/BTEN/EN/N3/3/1)  
-[N3.3.2: DB Double decker train (Twindexx)](/BTEN/EN/N3/3/2)  
-[N3.3.3: Electric locomotive (Series 101)](/BTEN/EN/N3/3/3)    
+[N3.3.2: DB Dubbeldekker trein (Twindexx)](/BTEN/EN/N3/3/2)  
+[N3.3.3: Elektrische locomotief (Series 101)](/BTEN/EN/N3/3/3)    
 [N3.3.4: IC2 ](/BTEN/EN/N3/3/4)
-### N3.4: Planes
-### N3.5: Water traffic
-### N3.6: Other
+### N3.4: Vliegtuigen
+### N3.5: Watervoertuigen
+### N3.6: Overige
 
 ***
 
