@@ -64,4 +64,7 @@ N6. [Anderes](#n6)
 ### N6.1: Glossar
 [N6.1.1: Köpfe](/BTEN/DE/N6/1/1)
 
+### N6.2: Sonstige Gegenstände
+[N6.2.1: Buchstaben](/BTEN/DE/N6/2/1)
+
 ***
