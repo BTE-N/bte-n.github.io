@@ -11,7 +11,7 @@ N6. [Overige](#n6)
 
 ## N1: Over Norming
 
-[N1.1: Over Norms](/BTEN/NL/N1/1)  
+[N1.1: Over Norms](/BTEN/NL/N1/md.1)  
 [N1.2: Normen Indienen](/BTEN/EN/N1/2)  
 [N1.3: Solliceteren aan het Normering Commitée](/BTEN/EN/N1/3)
 
