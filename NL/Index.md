@@ -1,6 +1,6 @@
 # Index
 
-N1. [Over Normalisation](#n1)  
+N1. [Over Normalisering](#n1)  
 N2. [Infrastructuur](#n2)  
 N3. [Voertuigen](#n3)  
 N4. [Logo's, Vlaggen en Banners](#n4)  
@@ -11,7 +11,7 @@ N6. [Overige](#n6)
 
 ## N1: Over Normalisation
 
-[N1.1: Over Norms](/NL/N1/1)  
+[N1.1: Over Normen](/NL/N1/1)  
 [N1.2: Normen Indienen](/NL/N1/2)  
 [N1.3: Solliceteren aan het Normering Commitée](/NL/N1/3)
 
