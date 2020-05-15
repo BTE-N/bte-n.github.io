@@ -92,7 +92,7 @@ There is a slight learning curve involved with moving around on GitHub, so here'
 
 ![The GitHub main page](https://media.discordapp.net/attachments/702537093527765083/709705840189243412/bten_main_file_page.png)
 
-Generally speaking, projects like ours are presented on GitHub similarly to a folder with files in it. This folder, in our case, is located at [/pxnt/BTEN](https://github.com/pxnt/BTEN). Press the link and take a look! Here, you see a few files and folders already, as well as the README.md, which is in our case used to send confused people straight to the website, as this super secret behind-the-scenes business is only for you and me! Well, and a few other people.
+Generally speaking, projects like ours are presented on GitHub similarly to a folder with files in it. This folder, in our case, is located at [/BTE-N/bte-n.github.io](https://github.com/BTE-N/bte-n.github.io). Press the link and take a look! Here, you see a few files and folders already, as well as the README.md, which is in our case used to send confused people straight to the website, as this super secret behind-the-scenes business is only for you and me! Well, and a few other people.
 
 To move around in this file system, you simply press on the file you want to view, or the folder you want to open.
 
@@ -101,7 +101,7 @@ Important to note here is that you must always click on the blue filename, locat
 
 ![The GitHub Docs Page](https://media.discordapp.net/attachments/702537093527765083/709704069614272512/main_docs_menu.png)
 
-Let's together now go into the [/docs/](https://github.com/pxnt/BTEN/tree/master/docs) folder by pressing on the "docs" name, which is where the website actually lives at. There should now be a long row of folders in front of you, many of which having language codes like "EN" and "DE", others having more self-explanatory names like "main" or "icons". To go back into the parent folder (the folder which this folder is in), you can always click on the ".." which are at the top of the file list.
+*This section is outdated - the website's files are now at main tree, not inside `/docs/`* Let's together now go into the [/docs/](https://github.com/BTE-N/bte-n.github.io/tree/master/) folder by pressing on the "docs" name, which is where the website actually lives at. There should now be a long row of folders in front of you, many of which having language codes like "EN" and "DE", others having more self-explanatory names like "main" or "icons". To go back into the parent folder (the folder which this folder is in), you can always click on the ".." which are at the top of the file list.
 
 ### Section 2: Creating new files
 
@@ -109,7 +109,7 @@ To create new files, you simply press the "Create new file" button located at th
 
 ![New File](https://media.discordapp.net/attachments/702537093527765083/709707000908349470/new_file.png)
 
-On the [file creation page](https://github.com/pxnt/BTEN/new/master/docs), you will now see a huge empty space waiting to be written into. Additionally, you see a small box at the top asking you to name your file. If you are in the wrong folder, you can simply add the names of the subfolder into this text box. This is also how you create new folders, by simply adding the new folder name into the text box, followed by a `/`, and then your file name.
+On the [file creation page](https://github.com/BTE-N/bte-n.github.io/new/master/), you will now see a huge empty space waiting to be written into. Additionally, you see a small box at the top asking you to name your file. If you are in the wrong folder, you can simply add the names of the subfolder into this text box. This is also how you create new folders, by simply adding the new folder name into the text box, followed by a `/`, and then your file name.
 
 ![](https://media.discordapp.net/attachments/702537093527765083/709707580045262938/spam1.png)
 
@@ -143,9 +143,9 @@ After pressing "Create pull request", members from the Team can review and accep
 
 ### Section 4: Viewing your file
 
-You should now be able to find it at [/docs/spam](https://github.com/pxnt/BTEN/tree/master/docs/spam) - my file, for example, is now [here](https://github.com/pxnt/BTEN/blob/master/docs/spam/Pxnt-11052020.md).
+You should now be able to find it at [/spam](https://github.com/BTE-N/bte-n.github.io/tree/master/spam) - my file, for example, is now [here](https://github.com/BTE-N/bte-n.github.io/blob/master/spam/Pxnt-11052020.md).
 
-You should actually also be able to see your page on the website! For this, simply enter `https://pxnt.github.io/BTEN/spam/` and add yout file name, without extension. My file is now sitting [here](https://pxnt.github.io/BTEN/spam/Pxnt-11052020)!
+You should actually also be able to see your page on the website! For this, simply enter `https://pxnt.github.io/BTEN/spam/` and add yout file name, without extension. My file is now sitting [here](https://bte-n.github.io/spam/Pxnt-11052020)!
 
 {:.info}
 [Read more about GitHub](https://guides.github.com/activities/hello-world/)
@@ -194,9 +194,9 @@ a couple of numbers like `1.` and `2.` underneath one another turn into a number
 
 ### Section 3: Links and Images
 
-`[Click here](https://pxnt.github.io/BTEN/)` becomes [Click here](https://pxnt.github.io/BTEN/)
+`[Click here](https://bte-n.github.io/)` becomes [Click here](https://bte-n.github.io/)
 
-or save some text when you are on the same page: `[Click here](/BTEN/Documentation)`
+or save some text when you are on the same page: `[Click here](/Documentation)`
 
 you can also link to a title:
 
@@ -278,7 +278,7 @@ Once you're member, you can start working on your language like so:
 
 ### Section 1: What to translate
 
-First, locate the page you want to translate, for example [/BTEN/EN/N2/1/1](/BTEN/EN/N2/1/1).
+First, locate the page you want to translate, for example [/EN/N2/1/1](/EN/N2/1/1).
 
 You can start searching for untranslated pages by comparing the folder of your language with the English one, or by checking the index for links that don't function in your language.
 
@@ -287,12 +287,12 @@ Some pages don't need translation or only ask for limited amounts of translation
 
 ### Section 2: Preparing the translation
 
-Find the corresponding file on the github directory. For this, you need to go to [the main GitHub directory](https://github.com/pxnt/BTEN/blob/master/docs/)    
-Then, search for the file. You can navigate the system by first clicking on your source language (usually English, so EN), and then follow the folders the same way the norm ID is set up (`N2.1.1`). In this case, you will find  [/EN/N2/1/1.md](https://github.com/pxnt/BTEN/blob/master/docs/EN/N2/1/1.md)
+Find the corresponding file on the github directory. For this, you need to go to [the main GitHub directory](https://github.com/BTE-N/bte-n.github.io/blob/master/)    
+Then, search for the file. You can navigate the system by first clicking on your source language (usually English, so EN), and then follow the folders the same way the norm ID is set up (`N2.1.1`). In this case, you will find  [/EN/N2/1/1.md](https://github.com/BTE-N/bte-n.github.io/blob/master/EN/N2/1/1.md)
 
-Copy the site's content by clicking on the "Raw" button on the right, next to "Blame" and "History". This would lead you to [raw.githubusercontent.com](https://raw.githubusercontent.com/pxnt/BTEN/master/docs/EN/N2/1/1.md) - just press CTRL+A (Select All) and then CTRL+C (Copy) to get the pages's content.
+Copy the site's content by clicking on the "Raw" button on the right, next to "Blame" and "History". This would lead you to [raw.githubusercontent.com](https://raw.githubusercontent.com/BTE-N/bte-n.github.io/master/EN/N2/1/1.md) - just press CTRL+A (Select All) and then CTRL+C (Copy) to get the pages's content.
 
-Press "Create new file" in the folder where you’d find the file - you might need to create folders along your way (your language ID -> N# -> #. Read [the tutorial for creating files](#section-2-creating-new-files) for more information) - there you will create a file with the last ID digit as the name (3.md for example), for the example of french, this would be https://github.com/pxnt/BTEN/tree/master/docs/FR/N2/1/ - this would lead you to https://github.com/pxnt/BTEN/new/master/docs/FR/N2/1/
+Press "Create new file" in the folder where you’d find the file - you might need to create folders along your way (your language ID -> N# -> #. Read [the tutorial for creating files](#section-2-creating-new-files) for more information) - there you will create a file with the last ID digit as the name (3.md for example), for the example of french, this would be https://github.com/BTE-N/bte-n.github.io/tree/master/FR/N2/1/ - this would lead you to https://github.com/BTE-N/bte-n.github.io/new/master/FR/N2/1/
 
 Paste your clipboard (CTRL+V) into the large field. The name will be the Norm-ID (here "3") **plus the file extension (always ".md")**
 
@@ -308,7 +308,7 @@ If you realized you made a mistake, navigate to your translated file, and press 
 
 {:.warning}
 Please talk to the Core Team before adding a norm.
-1. Press "Create new file" in https://github.com/pxnt/BTEN/tree/master/docs - this leads you to https://github.com/pxnt/BTEN/new/master/docs    
+1. Press "Create new file" in https://github.com/BTE-N/bte-n.github.io/tree/master/ - this leads you to https://github.com/BTE-N/bte-n.github.io/new/master/   
 I recommend to copy an existing norm file in your language to follow the layout instructions easier.    
 When naming the norm, first enter the norm ID in this format: `[language, ex. EN]/[norm-topic, ex. N3]/[subnumber(s), ex. 2]/[last number, ex. 1].md`, so an example would be `EN/N3/2/1.md`
 2. Create your Norm.
