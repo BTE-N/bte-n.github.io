@@ -145,7 +145,7 @@ After pressing "Create pull request", members from the Team can review and accep
 
 You should now be able to find it at [/spam](https://github.com/BTE-N/bte-n.github.io/tree/master/spam) - my file, for example, is now [here](https://github.com/BTE-N/bte-n.github.io/blob/master/spam/Pxnt-11052020.md).
 
-You should actually also be able to see your page on the website! For this, simply enter `https://pxnt.github.io/BTEN/spam/` and add yout file name, without extension. My file is now sitting [here](https://bte-n.github.io/spam/Pxnt-11052020)!
+You should actually also be able to see your page on the website! For this, simply enter `https://pxnt.github.io/spam/` and add yout file name, without extension. My file is now sitting [here](https://bte-n.github.io/spam/Pxnt-11052020)!
 
 {:.info}
 [Read more about GitHub](https://guides.github.com/activities/hello-world/)

@@ -37,6 +37,6 @@ This text has a paragraph coming
 right there!    
 This is a new line without a free row, which is done by adding four spaces (`    `)
 
-[This will send you to the website!](https://pxnt.github.io/BTEN/)
+[This will send you to the website!](https://bte-n.github.io/)
 
 And this will send you to the top of the page! [Click here](#this-is-a-test-file)
