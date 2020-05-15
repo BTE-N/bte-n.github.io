@@ -9,7 +9,7 @@ permalink: /Documentation.html
 
 Hi! I'm Pxnt.
 
-On this page, I will try my  best to guide you to becoming a contributor of the Norming Project as well as answer any questions you might have now or later about this project.    
+On this page, I will try my  best to guide you to becoming a contributor of the Normalisation Project as well as answer any questions you might have now or later about this project.    
 
 In the course of the tutorials presented on this page, you will be creating and editing your own page, which the project lead will take as a welcomed symbol of you taking the time to learn more about GitHub and our project!
 
@@ -36,7 +36,7 @@ As being able to speak English is generally required as a team member, this page
 {:.warning}
 This section is **very important**. By becoming a Team Member, you certify that you have read **at least** this section. If you make a mistake, while we acknowledge making mistakes is human, we will judge you with the assumption that you have read this section.
 
-Being Team Member of the Norming Project carries both great power and great responsibility with it. You are given the ability to modify every page, every word written on the website, and there is nothing between you pressing "Commit" and the website publishing your changes for the world to see.
+Being Team Member of the Normalisation Project carries both great power and great responsibility with it. You are given the ability to modify every page, every word written on the website, and there is nothing between you pressing "Commit" and the website publishing your changes for the world to see.
 This means, it is your responsibility to ensure that what you add to or remove from the page is within the best interests of everyone involved, that means your fellow members, the project lead as well as the broader Build The Earth community as a whole, which uses our website as a resource and guideline.
 
 ### Section 1: Common Sense

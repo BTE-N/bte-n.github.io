@@ -1,6 +1,6 @@
 # Index
 
-N1. [About Norming](#n1)  
+N1. [About Normalisation](#n1)  
 N2. [Infrastructure](#n2)  
 N3. [Vehicles](#n3)  
 N4. [Logos, Flags and Banner](#n4)  
@@ -9,11 +9,11 @@ N6. [Other](#n6)
 
 ***
 
-## N1: About Norming
+## N1: About Normalisation
 
 [N1.1: About Norms](/EN/N1/1)  
 [N1.2: Submitting Norms](/EN/N1/2)  
-[N1.3: Applying for the Norming Committee](/EN/N1/3)
+[N1.3: Applying for the Normalisation Committee](/EN/N1/3)
 
 ***
 

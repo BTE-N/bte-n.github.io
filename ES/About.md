@@ -7,7 +7,7 @@
 
 ## ¿Quiénes somos?
 
-El equipo del *Norming Project* (Proyecto de Estandarización) es un grupo creciente de personas dedicadas a crear un conjunto de guías para trabajar en el proyecto de *Build The Earth*, comenzado a inicios de 2020.
+El equipo del *Normalisation Project* (Proyecto de Estandarización) es un grupo creciente de personas dedicadas a crear un conjunto de guías para trabajar en el proyecto de *Build The Earth*, comenzado a inicios de 2020.
 
 Su propósito es proveer recursos para construir estructuras repetidas, así como ayudar a personas que se pregunten *"¿y, cómo construyo esto?"* cuando observen una calle, vía, u otro tipo de infraestructura.
 
@@ -21,7 +21,7 @@ Es crucial comunicarse frecuentemente y asegurarse de que las decisiones estén 
 
 ## Contribuir
 
-Estamos aceptando más miembros en el equipo del *Norming Project*.
+Estamos aceptando más miembros en el equipo del *Normalisation Project*.
 
 Puede ser porque te guste contribuir usando tu experiencia de construcción, tengas tiempo libre y quieras agregar y actualizar estándares, o porque estés interesado en traducir y actualizar el sitio web a idiomas que hables.
 
@@ -29,7 +29,7 @@ Si estás interesado, puedes unirte a nuestro [Servidor de Discord](https://disc
 
 ## Miembros
 
-El equipo detrás de *Build The Earth: Norming Project* tiene estos miembros actualmente:
+El equipo detrás de *Build The Earth: Normalisation Project* tiene estos miembros actualmente:
 
 {% include Members.md %}
 

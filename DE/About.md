@@ -16,13 +16,13 @@ Das *BTEN* Wiki basiert auf einer umfassenden Zusammenarbeit, bei der Menschen a
 
 ## Beitragen
 
-Da wir immer größer werden, sind wir sehr offen dafür, neue Mitglieder in das Team hinter dem Norming Project aufzunehmen. Sei du es, wenn du gerne deine eigenen Erfahrungen im Bereich Worldbuilding einbringen oder Zeit zur Verfügung hast, die du zum Hinzufügen und Aktualisieren von Normen nutzen möchtest, oder weil du daran interessiert bist, die Website in Sprachen zu übersetzen und zu aktualisieren, die du sprechen kannst.
+Da wir immer größer werden, sind wir sehr offen dafür, neue Mitglieder in das Team hinter dem Normalisation Project aufzunehmen. Sei du es, wenn du gerne deine eigenen Erfahrungen im Bereich Worldbuilding einbringen oder Zeit zur Verfügung hast, die du zum Hinzufügen und Aktualisieren von Normen nutzen möchtest, oder weil du daran interessiert bist, die Website in Sprachen zu übersetzen und zu aktualisieren, die du sprechen kannst.
 
 Wenn du interessiert bist, kannst du dich dem [Discord Server](https://discord.gg/eXzrZSx) anschließen um mit den Mitgliedern zu kommunizieren und um zu besprechen wie du einen Beitrag leisten kannst. Der Server ist auch eine Plattform für Diskussionen und Support.
 
 ## Mitglieder
 
-Das Build The Earth: Norming Project Team besteht derzeit aus den folgenden Mitgliedern:
+Das Build The Earth: Normalisation Project Team besteht derzeit aus den folgenden Mitgliedern:
 
 {% include Members.md %}
 
