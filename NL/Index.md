@@ -9,7 +9,7 @@ N6. [Overige](#n6)
 
 ***
 
-## N1: Over Normalisation
+## N1: Over Normalisering
 
 [N1.1: Over Normen](/NL/N1/1)  
 [N1.2: Normen Indienen](/NL/N1/2)  
