@@ -28,7 +28,6 @@ Simply select the link of your preferred language to view the Index. If yours is
     <span class="icon-text">Voir l’Index des Normes</span>
 </a></h2>
 
-<!--
 <h2 class="not-heading"><a href="/IT/Index">
     <div class="inline-icon flag-IT"></div>
     <span class="icon-text">View the Norm-Index but Italian</span>
@@ -38,4 +37,8 @@ Simply select the link of your preferred language to view the Index. If yours is
     <div class="inline-icon flag-SV"></div>
     <span class="icon-text">View the Norm-Index but Swedish</span>
 </a></h2>
--->
+
+<h2 class="not-heading"><a href="/PT/Index">
+    <div class="inline-icon flag-PT"></div>
+    <span class="icon-text">View the Norm-Index but Portuguese</span>
+</a></h2>
