@@ -19,7 +19,7 @@ N6. [Overige](#n6)
 
 ## N2: Infrastructuur
 ### N2.1: Straten
-[N2.1.1: Afvalcontainers met wielen (voor huishoudens en bedrijven)](/EN/N2/1/1)  
+[N2.1.1: Afvalcontainers met wielen (voor huishoudens en bedrijven)](/NL/N2/1/1)  
 ### N2.2: Spoorwegen
 [N2.2.1: Bindende Spoorweg normen bij ECFR](/EN/N2/2/1)   
 [N2.2.2: Spoorweg](/EN/N2/2/2)    
