@@ -35,7 +35,7 @@
         gtag("config", "UA-165741526-1");
 
         function getCurrentLang() {
-            return (location.href.match(/\/([A-Z]{2})\//) || [])[1];
+            return (location.href.match(/([A-Z]{2})\//) || [])[1];
         }
         function switchLang(lang) {
             const currentLang = getCurrentLang();
