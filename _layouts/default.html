@@ -35,7 +35,7 @@
         gtag("config", "UA-165741526-1");
 
         function getCurrentLang() {
-            return (location.href.match(/\/BTEN\/([A-Z]{2})\//) || [])[1];
+            return (location.href.match(/\/([A-Z]{2})\//) || [])[1];
         }
         function switchLang(lang) {
             const currentLang = getCurrentLang();
@@ -45,7 +45,7 @@
         }
         function goTo(path, lang) {
             lang = lang || getCurrentLang() || "EN";
-            location.href = `/BTEN/${lang}/${path}`;
+            location.href = `/${lang}/${path}`;
         }
 
         function dropdownClick() {
@@ -290,7 +290,7 @@
     <!-- Large Banner -->
     <header class="page-header" role="banner">
         <h1 class="project-name">{{ page.title }}</h1>
-        <h2 class="project-tagline"><a class="project-tagline" href="https://pxnt.github.io/BTEN/" style="color:#fff; opacity:0.7; text-decoration: none">{{ page.description | default: site.description | default: site.github.project_tagline }}</a></h2>
+        <h2 class="project-tagline"><a class="project-tagline" href="https://bte-n.github.io/" style="color:#fff; opacity:0.7; text-decoration: none">{{ page.description | default: site.description | default: site.github.project_tagline }}</a></h2>
     </header>
     <!-- Content -->
     <main id="content" class="main-content" role="main">
