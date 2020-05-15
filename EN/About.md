@@ -1,4 +1,4 @@
-# About Us
+# About us
 
 * [Who are we?](#who-are-we)
 * [Philosophy](#philosophy)
