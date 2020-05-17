@@ -42,7 +42,7 @@ N6. [Other](#n6)
 ### N3.4: Planes
 ### N3.5: Water traffic
 ### N3.6: Other
-[N3.6.1:Aeroteam - Providing a selection of Vehicles for BTE](/EN/N3/6/1)
+[N3.6.1: Aeroteam - Providing a selection of Vehicles for BTE](/EN/N3/6/1)
 
 ***
 
