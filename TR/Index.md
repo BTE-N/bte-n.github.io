@@ -1,72 +1,72 @@
-# Index
+# İndeks
 
-N1. [About Normalisation](#n1)  
-N2. [Infrastructure](#n2)  
-N3. [Vehicles](#n3)  
-N4. [Logos, Flags and Banner](#n4)  
-N5. [Decorations](#n5)  
-N6. [Other](#n6)
+N1. [Normalleştirme Hakkında](#n1)  
+N2. [Altyapı](#n2)  
+N3. [Araçlar](#n3)  
+N4. [Logolar, Bayraklar ve Bannerlar](#n4)  
+N5. [Dekorasyonlar](#n5)  
+N6. [Diğer](#n6)
 
 ***
 
-## N1: About Normalisation
+## N1: Normalleştirme Hakkında
 
-[N1.1: About Norms](/TR/N1/1)  
-[N1.2: Submitting Norms](/TR/N1/2)  
+[N1.1: Normlar Hakkında](/TR/N1/1)  
+[N1.2: Normları Göndermek](/TR/N1/2)  
 [N1.3: Applying for the Normalisation Committee](/TR/N1/3)
 
 ***
 
-## N2: Infrastructure
-### N2.1: Streets
-[N2.1.1: Rubbish container with wheels (for households and companies)](/TR/N2/1/1)  
-### N2.2: Railways
-[N2.2.1: Binding Railway norms by ECFR](/TR/N2/2/1)   
-[N2.2.2: Railway](/TR/N2/2/2)    
-[N2.2.3: Highspeed-Railway](/TR/N2/2/3)
-[N2.2.4: Three- and Four-Rail-Railways](/TR/N2/2/4)
-### N2.3: Traffic signs
-[N2.3.1: Bus stop sign](/TR/N2/3/1)  
-[N2.3.2: Traffic light banner](/TR/N2/3/2)
+## N2: Altyapı
+### N2.1: Sokaklar
+[N2.1.1: Tekerlekli çöp konteynerleri (haneler ve şirketler için)](/TR/N2/1/1)  
+### N2.2: Demiryolları
+[N2.2.1: ECFR ile Demiryolu Normlarını Bağlama](/TR/N2/2/1)   
+[N2.2.2: Demiryolu](/TR/N2/2/2)    
+[N2.2.3: Yüksek Hızlı Demiryolu](/TR/N2/2/3)
+[N2.2.4: Üç ve Dört Raylı Demiryolları](/TR/N2/2/4)
+### N2.3: Trafik Levhaları
+[N2.3.1: Otobüs durağı levhaları](/TR/N2/3/1)  
+[N2.3.2: Trafik ışığı bannerı](/TR/N2/3/2)
 
 ***
 
-## N3: Vehicles
-### N3.1: Cars
-### N3.2: Trucks
-### N3.3: Trains
+## N3: Araçlar
+### N3.1: Arabalar
+### N3.2: Kamyonlar
+### N3.3: Trenler
 [N3.3.1: ICE 3](/TR/N3/3/1)  
-[N3.3.2: DB Double decker train (Twindexx)](/TR/N3/3/2)  
-[N3.3.3: Electric locomotive (Series 101)](/TR/N3/3/3)    
+[N3.3.2: DB Double-Decker tren (Twindexx)](/TR/N3/3/2)  
+[N3.3.3: Elektrikli lokomotif (Series 101)](/TR/N3/3/3)    
 [N3.3.4: IC2 ](/TR/N3/3/4)
-### N3.4: Planes
-### N3.5: Water traffic
-### N3.6: Other
-[N3.6.1: Aeroteam - Providing a selection of Vehicles for BTE](/TR/N3/6/1)
+### N3.4: Uçaklar
+### N3.5: Su Trafiği
+### N3.6: Diğer
+[N3.6.1: Aeroteam - BTE için Araçler Sağlıyor](/TR/N3/6/1)
 
 ***
 
-## N4: Logos, Flags and Banner
-### N4.1: Official Flags and Banner
-[N4.1.1: Flags of German States](/TR/N4/1/1)  
-[N4.1.2: Countryflags](/TR/N4/1/2)
-### N4.2: Logos
-[N4.2.1: Company logos](/TR/N4/2/1)
+## N4: Logolar, Bayraklar ve Bannerlar
+### N4.1: Resmi Bayraklar ve Bannerlar
+[N4.1.1: Alman Devletleri Bayrakları](/TR/N4/1/1)  
+[N4.1.2: Ülke Bayrakları](/TR/N4/1/2)
+### N4.2: Logolar
+[N4.2.1: Şirket Logoları](/TR/N4/2/1)
 
 ***
 
-## N5: Decorations
-### N5.1: Stores
-[N5.1.1: Shopping venture](/TR/N5/1/1)
-### N5.2: Outside decorations
+## N5: Dekorasyonlar
+### N5.1: Mağazalar
+[N5.1.1: Alışveriş arabası](/TR/N5/1/1)
+### N5.2: Dış Mekan Dekorasyonları
 
 ***
 
-## N6: Other
-### N6.1: Glossary
-[N6.1.1: Heads](/TR/N6/1/1)
-### N6.2: Other Assets
-[N6.2.1: Letters](/TR/N6/2/1)
+## N6: Diğer
+### N6.1: Ek Sözlük
+[N6.1.1: Kafalar](/TR/N6/1/1)
+### N6.2: Diğer Varlıklar
+[N6.2.1: Harfler](/TR/N6/2/1)
 
 ***
 
