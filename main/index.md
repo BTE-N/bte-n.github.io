@@ -30,7 +30,7 @@ Simply select the link of your preferred language to view the Index. If yours is
 
 <h2 class="not-heading"><a href="/IT/Index">
     <div class="inline-icon flag-IT"></div>
-    <span class="icon-text">View the Norm-Index but Italian</span>
+    <span class="icon-text">Guarda l'Indice della Normalizzazione</span>
 </a></h2>
 
 <h2 class="not-heading"><a href="/SV/Index">
