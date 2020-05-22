@@ -59,6 +59,7 @@ N6. [Other](#n6)
 ### N5.1: Stores
 [N5.1.1: Shopping venture](/EN/N5/1/1)
 ### N5.2: Outside decorations
+[N5.2.1: Standard parking lot](/EN/N5/2/1)
 
 ***
 
