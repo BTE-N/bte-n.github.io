@@ -42,3 +42,8 @@ Simply select the link of your preferred language to view the Index. If yours is
     <div class="inline-icon flag-PT"></div>
     <span class="icon-text">View the Norm-Index but Portuguese</span>
 </a></h2>
+
+<h2 class="not-heading"><a href="/TR/Index">
+    <div class="inline-icon flag-TR"></div>
+    <span class="icon-text">View the Norm-Index but Turkish</span>
+</a></h2>
