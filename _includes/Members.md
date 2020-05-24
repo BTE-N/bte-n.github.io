@@ -9,7 +9,7 @@ cAtte_#4289 (EN, ES)
 ### Members
 Adrivv15#2867 (EN, ES, FR, PT)
 BTGamer#0939 (EN, NL)
-BK#3802 (EN, TR)
+bk#3802 (EN, TR)
 CADO#5826 (EN, DE)       
 Welan#0373 (EN, FR)      
 Gomba03#1231 (EN, FR)    
@@ -21,6 +21,7 @@ Tito_zz#3452 (EN, DE, ES)
 Karl IV Oskar#9205 (EN, SV)    
 Morpheus#3866 (EN, IT)       
 ydentt#8103 (EN, ES)    
-spl1ce#5225 (EN, PT)    
+spl1ce#5225 (EN, PT)  
+OneMoon#7679 (EN, TR)
 
 ***
