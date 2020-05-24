@@ -35,15 +35,15 @@ Simply select the link of your preferred language to view the Index. If yours is
 
 <h2 class="not-heading"><a href="/SV/Index">
     <div class="inline-icon flag-SV"></div>
-    <span class="icon-text">View the Norm-Index but Swedish</span>
+    <span class="icon-text">Visa norm indexet</span>
 </a></h2>
 
 <h2 class="not-heading"><a href="/PT/Index">
     <div class="inline-icon flag-PT"></div>
-    <span class="icon-text">View the Norm-Index but Portuguese</span>
+    <span class="icon-text">Ver a norma índice</span>
 </a></h2>
 
 <h2 class="not-heading"><a href="/TR/Index">
     <div class="inline-icon flag-TR"></div>
-    <span class="icon-text">Türkçe İndeksi göster</span>
+    <span class="icon-text">Norm endeksine göz atın</span>
 </a></h2>
