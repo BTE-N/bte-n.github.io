@@ -13,7 +13,7 @@ N6. [Diğer](#n6)
 
 [N1.1: Normlar Hakkında](/TR/N1/1)  
 [N1.2: Normları Göndermek](/TR/N1/2)  
-[N1.3: Applying for the Normalisation Committee](/TR/N1/3)
+[N1.3: Normalleşme komitesi tarafından onaylanma](/TR/N1/3)
 
 ***
 
