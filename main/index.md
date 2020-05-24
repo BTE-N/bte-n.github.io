@@ -45,5 +45,5 @@ Simply select the link of your preferred language to view the Index. If yours is
 
 <h2 class="not-heading"><a href="/TR/Index">
     <div class="inline-icon flag-TR"></div>
-    <span class="icon-text">View the Norm-Index but Turkish</span>
+    <span class="icon-text">Türkçe İndeksi göster</span>
 </a></h2>
