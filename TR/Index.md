@@ -3,7 +3,7 @@
 N1. [Normalleştirme Hakkında](#n1)  
 N2. [Altyapı](#n2)  
 N3. [Araçlar](#n3)  
-N4. [Logolar, Bayraklar ve Bannerlar](#n4)  
+N4. [Logolar, Bayraklar ve Flamalar](#n4)  
 N5. [Dekorasyonlar](#n5)  
 N6. [Diğer](#n6)
 
@@ -46,9 +46,9 @@ N6. [Diğer](#n6)
 
 ***
 
-## N4: Logolar, Bayraklar ve Bannerlar
-### N4.1: Resmi Bayraklar ve Bannerlar
-[N4.1.1: Alman Devletleri Bayrakları](/TR/N4/1/1)  
+## N4: Logolar, Bayraklar ve Flamalar
+### N4.1: Resmi Bayraklar ve Sancaklar
+[N4.1.1: Alman Eyalet Bayrakları](/TR/N4/1/1)  
 [N4.1.2: Ülke Bayrakları](/TR/N4/1/2)
 ### N4.2: Logolar
 [N4.2.1: Şirket Logoları](/TR/N4/2/1)
