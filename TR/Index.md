@@ -42,7 +42,7 @@ N6. [Diğer](#n6)
 ### N3.4: Uçaklar
 ### N3.5: Su Trafiği
 ### N3.6: Diğer
-[N3.6.1: Aeroteam - BTE için Araçler Sağlıyor](/TR/N3/6/1)
+[N3.6.1: Aeroteam - BTE için Araçlar Sağlıyor](/TR/N3/6/1)
 
 ***
 
