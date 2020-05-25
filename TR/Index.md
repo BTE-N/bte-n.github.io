@@ -27,7 +27,7 @@ N6. [Diğer](#n6)
 [N2.2.4: Üç ve Dört Raylı Demiryolları](/TR/N2/2/4)
 ### N2.3: Trafik Levhaları
 [N2.3.1: Otobüs durağı levhaları](/TR/N2/3/1)  
-[N2.3.2: Trafik ışığı bannerı](/TR/N2/3/2)
+[N2.3.2: Trafik ışığı flamaları](/TR/N2/3/2)
 
 ***
 
