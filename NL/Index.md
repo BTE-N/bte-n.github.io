@@ -21,12 +21,13 @@ N6. [Overige](#n6)
 ### N2.1: Straten
 [N2.1.1: Afvalcontainers met wielen (voor huishoudens en bedrijven)](/NL/N2/1/1)  
 ### N2.2: Spoorwegen
-[N2.2.1: Bindende Spoorweg normen bij ECFR](/EN/N2/2/1)   
+[N2.2.1: Bindende Spoorweg normen bij ECFR](/NL/N2/2/1)   
 [N2.2.2: Spoorweg](/EN/N2/2/2)    
-[N2.2.3: Hogesnelheid-Spoorweg](/EN/N2/2/3)
+[N2.2.3: Hogesnelheid-Spoorweg](/NL/N2/2/3)
+[N2.2.4: Three- and Four-Rail-Railways](/NL/N2/2/4)
 ### N2.3: Verkeersborden
-[N2.3.1: Bushalte Borden](/EN/N2/3/1)  
-[N2.3.2: Verkeerslicht vlaggen](/EN/N2/3/2)
+[N2.3.1: Bushalte Borden](/NL/N2/3/1)  
+[N2.3.2: Verkeerslicht vlaggen](/NL/N2/3/2)
 
 ***
 
