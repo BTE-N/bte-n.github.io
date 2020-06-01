@@ -27,7 +27,7 @@ N6. [Other](#n6)
 [N2.2.4: Three- and Four-Rail-Railways](/EN/N2/2/4)
 ### N2.3: Traffic signs
 [N2.3.1: Bus stop sign](/EN/N2/3/1)  
-[N2.3.2: Traffic light banner](/EN/N2/3/2)
+[N2.3.2: Traffic light banner](/EN/N2/3/2)   
 [N2.3.3: Traffic signs](/EN/N2/3/3)
 
 ***
