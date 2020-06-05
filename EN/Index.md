@@ -19,7 +19,7 @@ N6. [Other](#n6)
 
 ## N2: Infrastructure
 ### N2.1: Streets
-[N2.1.1: Rubbish container with wheels (for households and companies)](/EN/N2/1/1)  
+[N2.1.1: Rubbish containers](/EN/N2/1/1)  
 ### N2.2: Railways
 [N2.2.1: Binding Railway norms by ECFR](/EN/N2/2/1)   
 [N2.2.2: Railway](/EN/N2/2/2)    
@@ -41,6 +41,7 @@ N6. [Other](#n6)
 [N3.3.3: Electric locomotive (Series 101)](/EN/N3/3/3)    
 [N3.3.4: IC2 ](/EN/N3/3/4)
 ### N3.4: Planes
+[N3.4.1: Aeroteam - Planes](/EN/N3/4/1)
 ### N3.5: Water traffic
 ### N3.6: Other
 [N3.6.1: Aeroteam - Providing a selection of Vehicles for BTE](/EN/N3/6/1)
