@@ -125,7 +125,7 @@ You can now enter anything you like into the body of the file. If you don't know
 
 ### Section 3: Committing
 
-Once you're finished, scroll down to "Commit changes". Here, you can set a short and longer description of your changes if you like to. If you are a Team Member already, this will directly add your file to the website.
+Once you're finished, scroll down to "Commit changes". Here, you can set a short and longer description of your changes if you like to. When making commits to the BTE:N Project, you must [follow the naming instructions](https://canary.discordapp.com/channels/702537033813327912/707597996073812050/714469414828900372) (that link will only work if you are [member of our discord server](https://discord.gg/eXzrZSx). If you are a Team Member already, this will directly add your file to the website.
 
 ![](https://media.discordapp.net/attachments/702537093527765083/709708535436673094/commit_to_master.png)
 
@@ -259,7 +259,10 @@ Step 2: [Create your GitHub account](#creating-an-account) it you don't have one
 Step 3: [Contact the Core Team via Discord](http://discord.gg/eXzrZSx).    
 Let us know that you want to be part, tell us how you want to contribute, and we'll sort the rest out for you.
 
-Step 4: Contribute!    
+Step 4: Accept the invitation    
+Once you have been accepted into the team, you will receive an invite to our BTE:N organisation. You then need to accept the invitation using the link in the e-mail or by [clicking here](https://github.com/orgs/BTE-N/invitation) (this link will only work once you're invited and logged in).
+
+Step 5: Contribute!    
 Theoretically, there should be nothing in your way from translating, adding and editing on the Norm website.
 
 Make sure to stay up-to-date with our discord server, as there you'll get the latest news and discussions.
@@ -298,7 +301,7 @@ Paste your clipboard (CTRL+V) into the large field. The name will be the Norm-ID
 
 You can now edit and translate the large field as you are used to. Make use of the "Preview" button to ensure you're doing well.
 
-Once finished, scroll all the way down and press the green button called "Commit new file".
+Once finished, scroll all the way down and give your commit the [appopriate title](https://canary.discordapp.com/channels/702537033813327912/707597996073812050/714469414828900372) and press the green button called "Commit new file".
 
 If you realized you made a mistake, navigate to your translated file, and press the pen icon on the top right to edit the file, and commit in the end.
 
@@ -314,7 +317,8 @@ When naming the norm, first enter the norm ID in this format: `[language, ex. EN
 2. Create your Norm.
 3. Once finished, scroll all the way down and press the green button called "Commit new file".
 4. Edit the Index page in your language by pressing the "pen" icon on the top right and add your Norm. Use neighboring Norms to know how to format yours. **Do not skip this step, or your norm will not be accessible for users.**
-5. Paste your Norm URL plus a short text describing it (or a title) into `#new-norm` to alert translators and team members of your addition.
+5. Follow the committing instructions in `#how-to` to adhere to the naming regulations regarding commit titles.
+6. Paste your Norm URL plus a short text describing it (or a title) into `#general` to alert translators and team members of your addition.
 
 ***
 
