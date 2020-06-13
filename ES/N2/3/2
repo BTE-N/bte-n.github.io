@@ -1,0 +1,38 @@
+# N2.3.2: Estandarte de semáforo
+
+Este estándar es para semáforos para ambos vehículos y peatones, pero no es para los postes que sujetan dichos estandartes.
+
+{{ site.examples_ES }}
+
+## 2.3.2.1: Estandarte de semáforo (vehículos)
+
+**Estandarte de semáforo para vehículos**:  
+```
+/setblock ~ ~1 ~ minecraft:standing_banner 0 replace {Base:7,Patterns:[{Pattern:tt,Color:1},{Pattern:bt,Color:10},{Pattern:mc,Color:11},{Pattern:cbo,Color:0},{Pattern:bo,Color:0}]}
+```
+
+## 2.3.2.2 Estandarte de semáforo (peatones)
+
+**Estandrate de semáforo para peatones** (solo funciona en 1.12, la versión de BTE):   
+```
+/setblock ~ ~1 ~ minecraft:standing_banner 0 replace {Base:7,Patterns:[{Pattern:tt,Color:1},{Pattern:bt,Color:10},{Pattern:mc,Color:7},{Pattern:cbo,Color:0},{Pattern:bo,Color:0}]}
+```
+
+# Ejemplos
+
+## 2.3.2.1 y 2.3.2.2
+
+![](https://cdn.discordapp.com/attachments/702537033813327915/705761955583098932/2020-05-02_12.54.41.png)  
+Estandarte para peatones a la derecha, estandarte para vehículos a la izquierda.
+
+# Autores
+
+Envío: `Dank-Mars#6840 (297450790891683840) aka Mars_killer616`
+
+# Más informacion
+
+Este estándar esta basado en el texto en aleman por _Dank-Mars:_
+
+> Verkehrszeichen
+>
+> 2 Banner; ein Banner für den Straßenverkehr und ein Banner für die Fußgängerampel
