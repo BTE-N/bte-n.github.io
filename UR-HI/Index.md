@@ -1,25 +1,25 @@
 # Index
 
-N1. [About Normalisation](#n1)  
+N1. [Normalisation Ke Baare Mein](#n1)  
 N2. [Infrastructure](#n2)  
 N3. [Vehicles](#n3)  
-N4. [Logos, Flags and Banner](#n4)  
-N5. [Decorations](#n5)  
+N4. [Logos, Jhande aur Banners](#n4)  
+N5. [Sajaavat](#n5)  
 N6. [Other](#n6)
 
 ***
 
-## N1: About Normalisation
+## N1: Normalisation Ke Baare Mein
 
-[N1.1: About Norms](/EN/N1/1)  
-[N1.2: Submitting Norms](/EN/N1/2)  
-[N1.3: Applying for the Normalisation Committee](/EN/N1/3)
+[N1.1: Norms Ke Bar](/EN/N1/1)  
+[N1.2: Norms Jama Karana](/EN/N1/2)  
+[N1.3: Normalisation Kametee ke lie Apply Karana](/EN/N1/3)
 
 ***
 
 ## N2: Infrastructure
-### N2.1: Streets
-[N2.1.1: Rubbish container with wheels (for households and companies)](/EN/N2/1/1)  
+### N2.1: Sarken
+[N2.1.1: Pahiyon ke saath Kachara kantenar (vehicles aur kampaniyon ke lie)](/EN/N2/1/1)  
 ### N2.2: Railways
 [N2.2.1: Binding Railway norms by ECFR](/EN/N2/2/1)   
 [N2.2.2: Railway](/EN/N2/2/2)    
