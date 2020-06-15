@@ -7,3 +7,4 @@ examples_ES: '<p class="info"><a href="#ejemplos">Este estándar contiene ejempl
 examples_FR: '<p class="info"><a href="#exemples">Cette norme est accompagnée de photos.</a></p>'
 examples_IT: '<p class="info"><a href="#esempi">In questa norma ci sono esempi.</a></p>'
 examples_SV: '<p class="info"><a href="#??????">!!! Replace this !!!</a></p>'
+examples_CA: '<p class="info"><a href="#exemples">Aquest estàndard conté exemples</a></p>'
