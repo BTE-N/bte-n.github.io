@@ -47,3 +47,9 @@ Simply select the link of your preferred language to view the Index. If yours is
     <div class="inline-icon flag-TR"></div>
     <span class="icon-text">Norm endeksine göz atın</span>
 </a></h2>
+
+
+<h2 class="not-heading"><a href="/CA/Index">
+    <div class="inline-icon flag-CA"></div>
+    <span class="icon-text">Veure l'índex d'estàndards</span>
+</a></h2>
