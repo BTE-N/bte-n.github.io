@@ -58,14 +58,14 @@ N6. [Other](#n6)
 ## N5: Sajaavate
 ### N5.1: Stores
 [N5.1.1: Shopping venture](/EN/N5/1/1)
-### N5.2: Outside decorations
+### N5.2: Baahar kee Sajaavate
 [N5.2.1: Standard parking lot](/EN/N5/2/1)
 
 ***
 
 ## N6: Other
 ### N6.1: Glossary
-[N6.1.1: Heads](/EN/N6/1/1)
+[N6.1.1: Ser](/EN/N6/1/1)
 ### N6.2: Other Assets
 [N6.2.1: Letters](/EN/N6/2/1)
 
