@@ -54,7 +54,7 @@ Simply select the link of your preferred language to view the Index. If yours is
     <span class="icon-text">Veure l'índex d'estàndards</span>
 </a></h2>
 
-<h2 class="not-heading"><a href="/URHI/Index">
-    <div class="inline-icon flag-PK"></div>
-    <span class="icon-text">Norm-Index dekhen (UNFINISHED)</span>
+<h2 class="not-heading"><a href="/UH/Index">
+    <div class="inline-icon flag-UH"></div>
+    <span class="icon-text">Norm-Index dekhen</span>
 </a></h2>
