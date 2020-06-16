@@ -53,3 +53,8 @@ Simply select the link of your preferred language to view the Index. If yours is
     <div class="inline-icon flag-CA"></div>
     <span class="icon-text">Veure l'índex d'estàndards</span>
 </a></h2>
+
+<h2 class="not-heading"><a href="/UR-HI/Index">
+    <div class="inline-icon flag-PK"></div>
+    <span class="icon-text">Norm-Index dekhen (UNFINISHED)</span>
+</a></h2>
