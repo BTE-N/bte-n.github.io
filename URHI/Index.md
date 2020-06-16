@@ -11,7 +11,7 @@ N6. [Other](#n6)
 
 ## N1: Normalisation Ke Baare Mein
 
-[N1.1: Norms Ke Bar](/EN/N1/1)  
+[N1.1: Norms Ke Bar](/URHI/N1/1)  
 [N1.2: Norms Jama Karana](/EN/N1/2)  
 [N1.3: Normalisation Kametee ke lie Apply Karana](/EN/N1/3)
 
