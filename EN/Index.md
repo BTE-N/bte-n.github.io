@@ -42,8 +42,7 @@ N6. [Other](#n6)
 [N3.3.2: DB Double decker train (Twindexx)](/EN/N3/3/2)  
 [N3.3.3: Electric locomotive (Series 101)](/EN/N3/3/3)    
 [N3.3.4: IC2 ](/EN/N3/3/4)
-### N3.4: Planes
-[N3.4.1: Aeroteam - Planes](/EN/N3/4/1)
+### [N3.4: Planes](/EN/N3/4)
 ### N3.5: Water traffic
 ### N3.6: Other
 [N3.6.1: Aeroteam - Providing a selection of Vehicles for BTE](/EN/N3/6/1)
