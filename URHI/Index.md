@@ -12,14 +12,14 @@ N6. [Other](#n6)
 ## N1: Normalisation Ke Baare Mein
 
 [N1.1: Norms Ke Bar](/URHI/N1/1)  
-[N1.2: Norms Jama Karana](/EN/N1/2)  
-[N1.3: Normalisation Kametee ke lie Apply Karana](/EN/N1/3)
+[N1.2: Norms Jama Karana](/URHI/N1/2)  
+[N1.3: Normalisation Kametee ke lie Apply Karana](/URHI/N1/3)
 
 ***
 
 ## N2: Infrastructure
 ### N2.1: Sarken
-[N2.1.1: Pahiyon ke saath Kachara kantenar (vehicles aur kampaniyon ke lie)](/EN/N2/1/1)  
+[N2.1.1: Pahiyon ke saath Kachara kantenar (vehicles aur kampaniyon ke lie)](/URHI/N2/1/1)  
 ### N2.2: Railway
 [N2.2.1: ECFR ke Binding Railway norms ](/EN/N2/2/1)   
 [N2.2.2: Railway](/EN/N2/2/2)    
