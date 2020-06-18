@@ -1,0 +1,55 @@
+# N5.2.1: Standardparkplatz
+
+Diese Norm befasst sich mit der Konstruktion eines simplen, angewinkelten Parklatz.    
+Info: Diese Norm ist eher ein Tutorial als eine Richtlinie.
+
+{{ site.examples_DE }}
+
+## 5.2.1.1: Richtlinien
+
+Parkplätze sind normalerweise 2-3 Meter breit, wodurch sie in Minecraft Platz sowohl für Autos als auch Busse bieten. Zwischen Parkplätzen ist eine ein-Block-weite Linie, durch die die Parkflächen getrennt werden, soweit es in der Referenz auch trennlinien gibt.    
+Du kannst Blöcke deiner Wahl verwenden, im Tutorial werden verwendet:
+* **grauer Trockenbeton** als Straße auf Privatgrundstücken (252:7)
+* **hellgrauer Beton** als Parkfläche (251:8)
+* **hellgrauer Trockenbeton** als Markierungen (252:8)
+
+## 5.2.1.2: Den Parkplatz bauen
+
+Im Beispielparkplatz befinden sich relativ große Parkplätze, wodurch das Beispiel deinem Fall eventuell nicht entspricht. Eine gängigere Größe ist auf Bild 7 zu finden.
+
+* Markiere deinen Baubereich (fig. 1).
+* Markiere Parkplätze und Straßenmündungen (fig. 2).
+* Verbinde die Markierungen mit `//line <id>` (fig. 3).
+* Entferne Blöcke auf der Baufläche, z.B. mit `//remove grass` in a selection und füll die Fläche aus mit `//fill <id>` (fig. 4).
+* Ziehe Linien mit `//line <id>` quer über den Parkplatz mit dem Block, den du für die Markierungen verwendest. Stelle gleichmäßige Abstände sicher (fig. 5).
+* Vollende die Linien und entferne überflüssige Markierungen mit `//set 0`, `//remove <id>` oder von Hand (fig. 6).
+* Setze die Straße ein mit `//fill <id>` (fig. 7). 
+
+# Beispiele
+
+## 5.2.1.2
+
+![](https://cdn.discordapp.com/attachments/708274594414592031/713468077228032060/2020-05-23_18.57.25.png)
+Figur 1
+![](https://cdn.discordapp.com/attachments/708274594414592031/713468091857633280/2020-05-23_18.58.53.png)
+Figur 2a)
+![](https://cdn.discordapp.com/attachments/708274594414592031/713468103178059847/2020-05-23_19.01.26.png)
+Figur 2b)
+![](https://cdn.discordapp.com/attachments/708274594414592031/713468105975660574/2020-05-23_19.02.42.png)
+Figur 3
+![](https://cdn.discordapp.com/attachments/708274594414592031/713468104763637770/2020-05-23_19.08.22.png)
+Figur 4
+![](https://cdn.discordapp.com/attachments/708274594414592031/713468102507233300/2020-05-23_19.10.13.png)
+Figur 5
+![](https://cdn.discordapp.com/attachments/708274594414592031/713468106323918888/2020-05-23_19.12.03.png)
+Figur 6
+![](https://cdn.discordapp.com/attachments/708274594414592031/713468108412682251/2020-05-23_19.13.32.png)
+Figur 7
+
+# Autoren
+
+Erstellung: 𝔇'𝔞𝔪𝔡𝔯𝔢 𝔗𝔬𝔪𝔞𝔱𝔬#0768 (572715030135439360)
+
+# Mehr Informationen
+
+Diese Norm ist auf keinen Dokumenten oder Vorlagen basiert.
