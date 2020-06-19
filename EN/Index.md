@@ -45,6 +45,7 @@ N6. [Other](#n6)
 ### N3.4: Planes
 [➟ View Plane Index](/EN/N3/4)
 ### N3.5: Water traffic
+[N3.5.1: Fishing boats](/EN/N3/5/1)
 ### N3.6: Other
 [N3.6.1: Aeroteam - Providing a selection of Vehicles for BTE](/EN/N3/6/1)
 
