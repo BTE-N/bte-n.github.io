@@ -7,7 +7,7 @@
 
 ## Wer sind wir?
 
-Das *Normen-Projekt*-Team ist eine wachsende Gemenischaft von Menschen, die sich das Ziel genommen hat, eine Reihe an Richtlinien ("Normen") für das Build The Earth Projekt, gestartet Frühling 2020, festzulegen.    
+Das *Normen-Projekt*-Team ist eine wachsende Gemeinschaft von Menschen, die sich das Ziel genommen hat, eine Reihe an Richtlinien ("Normen") für das Build The Earth Projekt, gestartet Frühling 2020, festzulegen.    
 Es versucht, Informationen und Ressourcen für den Bau von wiederkehrenden Strukturen zu Verfügung zu stellen, und möchte einer Unsicherheit gegenüber Infrastruktur wie Straßen, Schienen oder anderem entgegenwirken.
 
 ## Die Idee
