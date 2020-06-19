@@ -249,31 +249,46 @@
             line-height: 10px;
         }
         .warning {
-            -moz-border-radius: 6px;
-            -webkit-border-radius: 6px;
             background-color: #FFFED9;
             border: solid 1px #EBE72F;
+            color: #E8A200;
             border-radius: 6px;
+            -moz-border-radius: 6px;
+            -webkit-border-radius: 6px;
             overflow: hidden;
             padding: 12px;
-            color: #E8A200;
         }
-        p.warning::before {
+        .warning::before {
             content: "⚠️ ";
         }
         .info {
-            -moz-border-radius: 6px;
-            -webkit-border-radius: 6px;
             background-color: #D9FDFF;
             border: solid 1px #2FC2EB;
+            color: #1E6BB8;
             border-radius: 6px;
+            -moz-border-radius: 6px;
+            -webkit-border-radius: 6px;
             overflow: hidden;
             padding: 12px;
-            color: #1E6BB8;
             text-decoration: none;
          }
          .info [href] {
             font-style: italic;
+         }
+         .download {
+            background-color: #d9ffdc;
+            border: solid 1px #2feb38;
+            color: #10a118;
+            border-radius: 6px;
+            -moz-border-radius: 6px;
+            -webkit-border-radius: 6px;
+            overflow: hidden;
+            padding: 12px;
+            display: table;
+            text-decoration: none;
+         }
+         .download [href] {
+             font-weight: bold;
          }
     </style>
 </head>
