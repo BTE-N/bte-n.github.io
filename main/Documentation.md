@@ -90,7 +90,7 @@ There is a slight learning curve involved with moving around on GitHub, so here'
 
 ### Section 1: Navigation
 
-![The GitHub main page](https://media.discordapp.net/attachments/702537093527765083/709705840189243412/bten_main_file_page.png)
+![The GitHub main page](https://bte-n.github.io/resources/main/Documentation/main_page.png)
 
 Generally speaking, projects like ours are presented on GitHub similarly to a folder with files in it. This folder, in our case, is located at [/BTE-N/bte-n.github.io](https://github.com/BTE-N/bte-n.github.io). Press the link and take a look! Here, you see a few files and folders already, as well as the README.md, which is in our case used to send confused people straight to the website, as this super secret behind-the-scenes business is only for you and me! Well, and a few other people.
 
@@ -99,7 +99,7 @@ To move around in this file system, you simply press on the file you want to vie
 {:.warning}
 Important to note here is that you must always click on the blue filename, located right next to each file icon, instead of the gray text to the right of it, which says things like *modify README* - these would instead send you to a page showing you the most recent change to a specific file, which you usually don't need.
 
-![The GitHub Docs Page](https://media.discordapp.net/attachments/702537093527765083/709704069614272512/main_docs_menu.png)
+![The GitHub Docs Page](https://bte-n.github.io/resources/main/Documentation/docs_page.png)
 
 *This section is outdated - the website's files are now at main tree, not inside `/docs/`* Let's together now go into the [/docs/](https://github.com/BTE-N/bte-n.github.io/tree/master/) folder by pressing on the "docs" name, which is where the website actually lives at. There should now be a long row of folders in front of you, many of which having language codes like "EN" and "DE", others having more self-explanatory names like "main" or "icons". To go back into the parent folder (the folder which this folder is in), you can always click on the ".." which are at the top of the file list.
 
@@ -107,37 +107,37 @@ Important to note here is that you must always click on the blue filename, locat
 
 To create new files, you simply press the "Create new file" button located at the top right of any folder page. This doesn't even need to be at the folder you want to place the file in, just make sure you're not somewhere completely elsewhere, as you can only go deeper into the filesystem using the name. Go ahead, press that button now!
 
-![New File](https://media.discordapp.net/attachments/702537093527765083/709707000908349470/new_file.png)
+![New File](https://bte-n.github.io/resources/main/Documentation/new_file.png)
 
 On the [file creation page](https://github.com/BTE-N/bte-n.github.io/new/master/), you will now see a huge empty space waiting to be written into. Additionally, you see a small box at the top asking you to name your file. If you are in the wrong folder, you can simply add the names of the subfolder into this text box. This is also how you create new folders, by simply adding the new folder name into the text box, followed by a `/`, and then your file name.
 
-![](https://media.discordapp.net/attachments/702537093527765083/709707580045262938/spam1.png)
+![](https://bte-n.github.io/resources/main/Documentation/spam_dir.png)
 
 Let's try creating a file. You should still be looking at the file creation page, and the text before the name box should be `BTEN/docs/`. Into the box, type `spam/`. The text should have now moved outside of the box, and instead added itself to the folders to its left! Magic, right?
 
-![](https://media.discordapp.net/attachments/702537093527765083/709707581664526336/spam2.png)
+![](https://bte-n.github.io/resources/main/Documentation/spam_file.png)
 
 To create your file, let's give it an actual name! How about your GitHub or Discord username and the current date? For me, this would be `Pxnt-11052020`. Enter your version of this, and don't forget to add the file extension! As our website generator reads *Markdown* files, we need to make sure all of our files are markdown. Make yours one of the team by adding `.md` to the end!
 
-![](https://media.discordapp.net/attachments/702537093527765083/709708291185311744/spam3.png)
+![](https://bte-n.github.io/resources/main/Documentation/spam_filename.png)
 
 You can now enter anything you like into the body of the file. If you don't know how to work with markdown, just keep reading after this article and you'll learn in no time! The next section will also show you how to access your websites.
 
 ### Section 3: Committing
 
-Once you're finished, scroll down to "Commit changes". Here, you can set a short and longer description of your changes if you like to. When making commits to the BTE:N Project, you must [follow the naming instructions](https://canary.discordapp.com/channels/702537033813327912/707597996073812050/714469414828900372) (that link will only work if you are [member of our discord server](https://discord.gg/eXzrZSx). If you are a Team Member already, this will directly add your file to the website.
+Once you're finished, scroll down to "Commit changes". Here, you can set a short and longer description of your changes if you like to. When making commits to the BTE:N Project, you must [follow the naming instructions](https://discordapp.com/channels/702537033813327912/707597996073812050/714469414828900372) (that link will only work if you are a member of our [Discord server](https://discord.gg/eXzrZSx). If you are a Team Member already, this will directly add your file to the website.
 
-![](https://media.discordapp.net/attachments/702537093527765083/709708535436673094/commit_to_master.png)
+![](https://bte-n.github.io/resources/main/Documentation/commit.png)
 
 ### Section 3b: Pull Requests
 
-If you aren't a member of the BTEN Team yet, you will have create a "new branch".
+If you aren't a member of the BTEN Team yet, you will have create a new "branch."
 
-![](https://media.discordapp.net/attachments/702537093527765083/709708748439945246/new_branch.png)
+![](https://bte-n.github.io/resources/main/Documentation/new_branch.png)
 
 In this case, you can then send a pull request from the website you will be shown after pressing "Propose new file".
 
-![](https://media.discordapp.net/attachments/702537093527765083/709709276624715845/new_pr.png)
+![](https://bte-n.github.io/resources/main/Documentation/pull_request.png)
 
 After pressing "Create pull request", members from the Team can review and accept your pull request. After someone accepted it, you will be able to see your file in the `/spam/` folder.
 
@@ -301,7 +301,7 @@ Paste your clipboard (CTRL+V) into the large field. The name will be the Norm-ID
 
 You can now edit and translate the large field as you are used to. Make use of the "Preview" button to ensure you're doing well.
 
-Once finished, scroll all the way down and give your commit the [appopriate title](https://canary.discordapp.com/channels/702537033813327912/707597996073812050/714469414828900372) and press the green button called "Commit new file".
+Once finished, scroll all the way down and give your commit the [appopriate title](https://discordapp.com/channels/702537033813327912/707597996073812050/714469414828900372) and press the green button called "Commit new file".
 
 If you realized you made a mistake, navigate to your translated file, and press the pen icon on the top right to edit the file, and commit in the end.
 
