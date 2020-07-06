@@ -25,22 +25,29 @@
         }
         window.onhashchange = handleHash
         window.onload = handleHash
-        window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || []
+        window.regions = {}
         function gtag() {
-            dataLayer.push(arguments);
+            dataLayer.push(arguments)
         }
-        gtag("js", new Date());
-        gtag("config", "UA-165741526-1");
+        gtag("js", new Date())
+        gtag("config", "UA-165741526-1")
         function getCurrentLang() {
-            return (location.href.match(/([A-Z]{2})\//) || [])[1];
+            return (location.href.match(/([A-Z]{2})\//) || [])[1]
         }
         function toggleRegion(region) {
             const regionButton = document.getElementById(`dd-region-${region}`)
-            regionButton.classList.toggle("active")
+            if (regionButton.classList.contains("active")) {
+                regionButton.classList.remove("active")
+                window.regions[region] = false
+            } else {
+                regionButton.classList.add("active")
+                window.regions[region] = true
+            }
         }
         function goTo(path, lang) {
-            lang = lang || getCurrentLang() || "EN";
-            location.href = `/${lang}/${path}`;
+            lang = lang || getCurrentLang() || "EN"
+            location.href = `/${lang}/${path}`
         }
         function dropdownClick() {
             document.getElementById("dropdown").classList.toggle("show");
@@ -48,9 +55,9 @@
         window.onclick = function(event) {
             const dropdowns = document.getElementsByClassName("dropdown-content");
             for (let i = 0; i < dropdowns.length; i++) {
-                const openDropdown = dropdowns[i];
+                const openDropdown = dropdowns[i]
                 if (openDropdown.classList.contains("show"))
-                    openDropdown.classList.remove("show");
+                    openDropdown.classList.remove("show")
             }
         }
         const i18n = {
@@ -113,6 +120,7 @@
             if (footerText)
                 footerText.innerHTML = (i18n[currentLang] || i18n.EN).footer
                     .replace(/\[(.+?)\]/, `<a href="#" onclick="goTo('About')">$1</a>`)
+            toggleRegion("INT")
         })
     </script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
