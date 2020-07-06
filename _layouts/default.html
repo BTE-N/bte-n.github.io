@@ -63,46 +63,55 @@
         const i18n = {
             EN: {
                 index: "Index",
+                home: "Home",
                 about: "About us",
                 footer: "BTEN is maintained by the [BTEN Team]."
             },
             DE: {
                 index: "Index",
+                home: "Home",
                 about: "Über uns",
                 footer: "BTEN wird vom [BTEN Team] instand gehalten."
             },
             ES: {
                 index: "Índice",
+                home: "Home",
                 about: "Acerca de",
                 footer: "BTEN está mantenido por el [Equipo BTEN]."
             },
             FR: {
                 index: "Index",
+                home: "",
                 about: "À propos de nous",
                 footer: ""
             },
             IT: {
                 index: "Indice",
+                home: "",
                 about: "Su di noi",
                 footer: ""
             },
-             TR: {
+            TR: {
                 index: "İndeks",
+                home: "",
                 about: "Hakkımızda",
                 footer: "BTEN bir BTE ekipidir."
             },
             SV: {
                 index: "Index",
+                home: "",
                 about: "Om oss",
                 footer: ""
             },
             CA: {
                 index: "Index",
+                home: "",
                 about: "Sobre nosaltres",
                 footer: "[L'equip de BTEN] manté BTEN"
             },
             UH: {
                 index: "Index",
+                home: "",
                 about: "Hamaare Baare Mein",
                 footer: "BTEN is maintained by the [BTEN Team]"
             }
@@ -111,10 +120,13 @@
         document.addEventListener("DOMContentLoaded", () => {
             const currentLang = getCurrentLang()
             const indexButton = document.getElementById("index-btn")
+            const homeButton = document.getElementById("home-btn")
             const aboutButton = document.getElementById("about-btn")
             const footerText = document.getElementById("footer-text")
             if (indexButton)
                 indexButton.innerText = (i18n[currentLang] || i18n.EN).index
+            if (homeButton)
+                homeButton.innerText = (i18n[currentLang] || i18n.EN).home
             if (aboutButton)
                 aboutButton.innerText = (i18n[currentLang] || i18n.EN).about
             if (footerText)
@@ -309,9 +321,10 @@
                 <a href="#" onclick="toggleRegion('GB')" id="dd-region-GB" title="United Kingdom"><div class="icon flag-EN"></div></a>
             </div>
         </div>
-        <li class="bar"><a href="#" onclick="goTo('Index')" id="index-btn"></a></li>
+        <li class="bar"><a href="#" onclick="goTo('Index')" id="index-btn">Index</a></li>
+        <li class="bar"><a href="/" id="home-btn">Home</a></li>
         <!-- Right-Side Items -->
-        <li style="float: right;" class="bar a"><a href="#" onclick="goTo('About')" id="about-btn"></a></li>
+        <li style="float: right;" class="bar a"><a href="#" onclick="goTo('About')" id="about-btn">About us</a></li>
         <li style="float: right;" class="bar"><a href="https://discord.gg/eXzrZSx">Discord</a></li>
     </ul>
     <!-- Large Banner -->
