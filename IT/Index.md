@@ -60,5 +60,3 @@ N6. [Altro](#n6-other)
 ## N6: Altro
 ### N6.1: Glossario
 [N6.1.1: Teste](/IT/N6/1/1)
-
-***

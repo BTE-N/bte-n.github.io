@@ -71,5 +71,3 @@ N6. [Outros](#n6)
 [N6.1.1: Cabeças](/PT/N6/1/1)
 ### N6.2: Outros Recursos
 [N6.2.1: Letras](/PT/N6/2/1)
-
-***

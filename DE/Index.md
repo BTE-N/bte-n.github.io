@@ -73,5 +73,3 @@ N6. [Anderes](#n6)
 
 ### N6.2: Sonstige Gegenstände
 [N6.2.1: Buchstaben](/DE/N6/2/1)
-
-***

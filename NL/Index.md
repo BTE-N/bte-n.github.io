@@ -66,5 +66,3 @@ N6. [Overige](#n6)
 [N6.1.1: Hoofden](/EN/N6/1/1)
 ### N6.2: Overige Middelen
 [N6.2.1: Brieven](/EN/N6/2/1)
-
-***

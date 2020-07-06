@@ -57,5 +57,3 @@ N6. [Otros](#n6)
 ## N6: Otros
 ### N6.1: Glosario
 [N6.1.1: Cabezas](/ES/N6/1/1)
-
-***

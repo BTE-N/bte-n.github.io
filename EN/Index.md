@@ -73,5 +73,3 @@ N6. [Other](#n6)
 [N6.1.1: Heads](/EN/N6/1/1)
 ### N6.2: Other Assets
 [N6.2.1: Letters](/EN/N6/2/1)
-
-***

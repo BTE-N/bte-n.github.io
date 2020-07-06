@@ -68,5 +68,3 @@ N6. [Other](#n6)
 [N6.1.1: Ser](/EN/N6/1/1)
 ### N6.2: Aur Assets
 [N6.2.1: Letters](/EN/N6/2/1)
-
-***

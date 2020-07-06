@@ -67,6 +67,3 @@ N6. [Diğer](#n6)
 [N6.1.1: Kafalar](/TR/N6/1/1)
 ### N6.2: Diğer Varlıklar
 [N6.2.1: Harfler](/TR/N6/2/1)
-
-***
-

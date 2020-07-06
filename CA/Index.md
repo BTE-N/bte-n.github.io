@@ -72,5 +72,3 @@ N6. [Altres](#n6)
 [N6.1.1: Caps](/EN/N6/1/1)
 ### N6.2: Altres Recursos
 [N6.2.1: Lletres](/EN/N6/2/1)
-
-***

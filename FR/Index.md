@@ -65,5 +65,3 @@ N6. [Autres](#n6)
 [N6.1.1: Têtes](/FR/N6/1/1)
 ### N6.2: Divers
 [N6.2.1: Lettres](/FR/N6/2/1)
-
-***
